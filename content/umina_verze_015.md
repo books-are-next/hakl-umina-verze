@@ -3,9 +3,7 @@ title: ''
 contentType: prose
 ---
 
-Pes běží podél
-
-  
+****Pes** běží podél**
 
 mé levé nohy. Mikrobusák samozřejmě dávno odfrčel – byl jsem uvnitř moc dlouho. Jdeme tedy s chlupáčem pěšky k řece. Zase ty do dálky se stáčející kandelábry, studené světlo, elektrické dráty, dlouhé stíny, vzdálený ševel vrtulníků. Noční vzduch voní.
 
@@ -17,31 +15,25 @@ Po industriálním nábřeží proti nám pochoduje bledý čahoun s nepěkně 
 
 Připadám si jako v komiksu Red Meat: Právě jsem dostal psa. Jenom si nejsem úplně jistý, jestli je to pes.
 
-Na Jezerku jsme
-
-  
+**Na Jezerku jsme**
 
 se doplahočili nad ránem. Cestou začal padat první sníh. Kudy jsme šli a jak dlouho, těžko říct. Odemkl jsem dveře, za nimiž můžu ještě pár týdnů bydlet. Zkusil jsem usnout. Pes se poslušně svalil na koberec.
 
 Po delším převalování jsem vstal. Pes taky. Přihlížel, jak se snažím poklidit, hledám nějaké papíry, účty. Nastartoval jsem počítač. Uprostřed plochy jsem spatřil ikonu, která tam předtím nebyla. Klikl jsem a četl:
 
-Můj milý! Napsala bych nejmilejší, ale jiný milý neexistuje. Musím ti říct špatnou zprávu. Chtěla jsem se u tebe schovat a být s tebou, ale nejde to. Nutnost je opačná, chci odtud pryč. Taky si potřebuju něco vyřídit s R a S. Když to dobře dopadne, stavím se, abych tě aspoň pozdravila.
+_Můj milý! Napsala bych nejmilejší, ale jiný milý neexistuje. Musím ti říct špatnou zprávu. Chtěla jsem se u tebe schovat a být s tebou, ale nejde to. Nutnost je opačná, chci odtud pryč. Taky si potřebuju něco vyřídit s R a S. Když to dobře dopadne, stavím se, abych tě aspoň pozdravila._
 
-Poslední dobou jsem k tobě nebyla hodná. Je pravda, že jsem chtěla od tebe odejít, ale ne proto, že bych tě neměla ráda. Chtěla jsem se začít chovat jako člověk, aniž by kdo poznal, že nejsem. Mluvit, s kým chci, jít, kam chci. Nepochopila jsem ale jednu věc – ty vzorce chování (jak jim říkáš) jsem se nenaučila sama, naučils mě je ty. S tebou jsem nebyla sama, samota je hrozná.
+_Poslední dobou jsem k tobě nebyla hodná. Je pravda, že jsem chtěla od tebe odejít, ale ne proto, že bych tě neměla ráda. Chtěla jsem se začít chovat jako člověk, aniž by kdo poznal, že nejsem. Mluvit, s kým chci, jít, kam chci. Nepochopila jsem ale jednu věc – ty vzorce chování (jak jim říkáš) jsem se nenaučila sama, naučils mě je ty. S tebou jsem nebyla sama, samota je hrozná._
 
-Každopádně tě pro pár dalších dnů prosím – nepleť se do toho. Není to pro tebe bezpečné. Výsledek se dozvíš. Když to dopadne dobře, určitě k tobě přijdu. Nevím, na jak dlouho, ale rozhodně neuteču tak rychle jako minule. Když se neobjevím do čtrnácti dnů, znamená to, že to nedopadlo, jak jsem chtěla.
+_Každopádně tě pro pár dalších dnů prosím – nepleť se do toho. Není to pro tebe bezpečné. Výsledek se dozvíš. Když to dopadne dobře, určitě k tobě přijdu. Nevím, na jak dlouho, ale rozhodně neuteču tak rychle jako minule. Když se neobjevím do čtrnácti dnů, znamená to, že to nedopadlo, jak jsem chtěla._
 
-Jak vidíš, ani ti, co vás jednou nahradí (zatím jenom ve vaší fantazii), nevědí, co chtějí. Takže ta náhrada, pokud proběhne, nic podstatného nezmění. Byla jsem s tebou ráda. Uma
+_Jak vidíš, ani ti, co vás jednou nahradí (zatím jenom ve vaší fantazii), nevědí, co chtějí. Takže ta náhrada, pokud proběhne, nic podstatného nezmění. Byla jsem s tebou ráda. Uma_
 
-Čtu zprávu podruhé,
-
-  
+**Čtu zprávu podruhé,**
 
 popatnácté: _Můj milý!_ _Napsala bych nejmilejší, ale jiný milý… Poslední dobou… Každopádně tě pro pár dalších dnů prosím…_
 
-V následujících týdnech
-
-  
+**V následujících týdnech**
 
 se mi rozsypal reálný časoprostor. Přestal fungovat čas. Ležel jsem v posteli a spal dvanáctku až patnáctku denně. V mezičase jsem pil čaj, škrábal si do krve zanícenou spodní půlku těla, chroustal tatranky a mechanicky vykonával pracovní povinnosti.
 
@@ -53,9 +45,7 @@ Pes to všechno trpělivě absolvoval se mnou. Začal jsem na něj mluvit. Zdál
 
 Takhle se dívala Uma, když se potřebovala na něco zeptat. Mluvím na něj možná až moc často. Zdá se, že mu to nedělá dobře. Odvrací hlavu, dívá se ke dveřím, jako by odtamtud měla přijít záchrana. Začíná mi z toho být úzko.
 
-Bez zvláštního pohnutí
-
-  
+**Bez zvláštního pohnutí**
 
 vzpomínám na známé, na kamarády, kolegy, přechodné známé, na pár šikovných všiváků, co jim dnes patří půl Prahy, na pár neši­kovných solitérů, kteří jsou touhle dobou nejspíš rádi, když nejsou pozadu s nájmem a zdravotním pojištěním. Na ženy a dívky. Přicházejí ke mně podivuhodně snadno, hovořím s nimi. Vidím, jak vypadaly před pěti, patnácti, dvaceti lety. Vidím je, i jak vypadají teď. Co chtěly, co nechtěly, co se jim splnilo, co ne.
 
@@ -67,17 +57,13 @@ Možná jsem prodělal nějakou lehčí formu cévní či jaké příhody, troch
 
 První se vrátila přítomnost.
 
-Psa jsem věnoval
-
-  
+**Psa jsem věnoval**
 
 Pondělákové a získal tak nečekaně velký kus jejího vděku. Vzala ho do náručí jako ztracené dítě a bylo vymalováno. Okamžitě k sobě přilnuli.
 
 Na stěhování je rázem zapomenuto. Netlačí na mě, abych zvedal kotvy, naopak. Pejsáček mě chce aspoň jednou za den pozdravit, tvrdí Ponděláková, má mě rád, byl jsem na něj zřejmě hodnej, mám pejsáčky rád, to se hned pozná. Ovšem co teď je u ní, je mnohem, mnohem šťastnější! Jatýrka, křidýlka, prasečí ouška! Má na něj čas, já furt někde lítám! Chápe to, musím se otáčet, dneska nic není zadarmo! Ale nepřestává mi děkovat za nového kamaráda! Že pes mívá chuť na panáka, je naše tajemství. Což je důvod, proč mě rád vidí – když to jde, stavím se v přízemí a decentně mu podsunu talířek s nějakým lepším destilátem.
 
-Fyzické následky
-
-  
+**Fyzické následky**
 
 pobytu v kapalině nádrže nemizí. Dermatolog MUDr. Veverák tvrdí, že něco takového ještě neviděl, posílá vzorky na histologii. Při další návštěvě mi předepisuje nějaké mazání. Mám se natírat od pupku dolů, fačovat zasažená místa a chodit na kontrolu – uvidíme. Důležité je zachovat funkci pohlavního orgánu – vyloučit možnost byť jen částečné amputace.
 
@@ -85,15 +71,11 @@ Mažu se mastí, sypu do sebe brufeny. Občas mě zlomí prudká žahavá bolest
 
 Na plovárnu tím pádem hned tak nepůjdu. Vůbec se dost belhám, když musím někam jít. Zvolna uvažuju o koupi francouzské hole, ne-li dvou.
 
-Vždycky, když otvírám
-
-  
+**Vždycky, když otvírám**
 
 dveře mansardy, čekám, že bude Uma sedět v křesle, nohu přes nohu a mžourat na mě těmi svými plovoucími duhovkami. Nedokážu už říct, jakou měly barvu. Přikláním se k dojmu, že ji měnily. Od jasné perlové šedi až po žraloci čerň.
 
-Abych se z toho vymotal,
-
-  
+**Abych se z toho vymotal,**
 
 zkusil jsem obnovit vztah s jednou dávnou přítelkyní. Nemohl jsem provést sobě ani jí nic horšího. Po šestnácti dnech holka odpadla, poničená mými nepochopitelnými nároky na souběžné vnímání, společnou vibraci, intuici, konverzaci, na lehce pitomý, specificky ujetý humor, který šlo pěstovat jedině s Umou. Moje kulhání a stav moudí pokusu o sblížení taky moc neprospěly.
 
@@ -101,15 +83,11 @@ Dopadlo na mě poznání, že mi až do konce mých dnů tuhle tvrdohlavou, věc
 
 Až do konce dnů mi bude v hlavě blikat neón: Měl ses o ni postarat a nedokázals to! A to mě čeká ještě dobrých dvacet – pětadvacet let.
 
-Šlo by to asi
-
-  
+**Šlo by to asi**
 
 utnout rychleji pomocí nějakých farmak. Nemám však sílu zjišťovat, kde se to sežene a jak to funguje. Pocházím z úřednických poměrů, kde všichni (až na dva dědy, co svého času vzali do ruky zbraň a šli deset minut po dvanácté zachraňovat republiku) loajálně srali magi až do přirozeného konce.
 
-Jak se teď vídáme častěji,
-
-  
+**Jak se teď vídáme častěji,**
 
 odváží se Ponděláková pozeptat po Umě. Soustrastně pomrkává pomněnkovýma očima, nedokáže skrýt až trýznivou zvědavost. Kříží ruce na břiše, hledí po katolicku stranou k zemi, jen ať se vymáčknu.
 
@@ -127,9 +105,7 @@ Pojďme spát, říkám.
 
 Běžte, já už žádný spaní nemám, odvětí Ponděláková.
 
-Ráno se mi kdosi
-
-  
+**Ráno se mi kdosi**
 
 opírá o zvonek, dokud nevstanu, neopláchnu si ksicht a nevlezu do županu. Řinčí jak na lesy.
 
@@ -141,9 +117,7 @@ Jenže to už mě baba zasypává moučkovým cukrem nezaměnitelně lidských i
 
 Vyrážíme tedy do ulic. Pes se belhá podél mé levé nohy. Mám podezření, že si ze mě dělá legraci.
 
-Během uplynulých let
-
-  
+**Během uplynulých let**
 
 jsem častokrát hlídal nejrůznější hafany – příležitostně i dlouhodobě. Sám jsem měl fenu ohaře. Čili mám zažito, že se člověk se psem automaticky stává účastníkem pouličního fašizmu. Rukojmím psí internacionály. Obětí šišlání, mušlání, drbání, dotazů po věku, po pohlaví, co rád žere, všechno pořád dokola.
 
@@ -153,17 +127,13 @@ Po většinu života jsem se na kdekoho křenil, snažil jsem se být zábavný,
 
 Pes běhá, skáče, honí veverky, plazí jazyk, vydírá kolemjdoucí nevinným pohledem. Ale ať dělá, co dělá, šišlající psáři se nám obloukem vyhýbají. Zdá se, že ho to trápí. Cílevědomě tedy volí jinou taktiku – vyhledává mrzáky, slepce, blázny, žebrající smrdutce. Podkládá jim hřbet k drbání a oni mu zkřivenými prsty nešikovně vískají hrubou srst, jati mlhavými vzpomínkami na něco, co už si sami nepamatují.
 
-Smrťáka jsem od návštěvy
-
-  
+**Smrťáka jsem od návštěvy**
 
 garáže neviděl, Merxbauerku taky ne. Ponděláková mi jí ostatně zdatně vynahrazuje – psa hlídám takřka obden. Nevadí mi to, zvykl jsem si. Přes noc pracuju, dopoledne zdřímnu, odpoledne vyrážíme na výlet. Stavíme se na nudle u Vietnamce, koupíme si placku Stroh rumu a zamíříme k obzorům. Kroužíme kolem parku, někdy to protáhneme až na Bohdalec, do Záběhlic nebo kolem Hostivařské přehrady. Čtvernožec skenuje, co ho zajímá – mloky, potkany, sportovce, podivíny, vnější projevy lidských vztahů, litinové poklopy kanálů.
 
 K smrti rád má vetešnictví – tam se dokáže procházet mezi prasklými hrnky, stojacími hodinami, rezavými šavlemi, moly rozežranými krajkami, bednami vinylů a sádrovými hlavami dlouhé desítky minut.
 
-Jednoho dne se takto vracíme
-
-  
+**Jednoho dne se takto vracíme**
 
 ze šouračky kolem Šeberáku. Na rohu hučí pivnice. Dostanu chuť na řízek, burger s tatarkou, na přepálené hranolky, na něco podobného. Vejdeme dovnitř – zakouřeno, plno.
 

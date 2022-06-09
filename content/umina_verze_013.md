@@ -3,9 +3,7 @@ title: ''
 contentType: prose
 ---
 
-Pokračuješ mechanicky dál
-
-  
+**Pokračuješ mechanicky **dál****
 
 po nábřeží. Jedinkrát se ohlédneš – Uma rázuje příčnou ulicí pryč od vody. Jakmile je z dohledu, opřeš se o zábradlí. Zíráš dolů na náplavku. Obrýlené mladé dvojičky v předimenzovaných kulichách – klauni nové doby, pomuchlané party vracející se z tahu, pejskaři, krmiči kachen, zadumaní jedinci, melancholici.
 
@@ -23,9 +21,7 @@ Vytáčíš Umino číslo pětkrát, osmkrát. Potřebuješ se dovolat, nasadit 
 
 _Je nám líto, ale s volaným číslem se nyní nelze spojit. Je buď nedostupné, nebo vypnuté._
 
-Chci jít sama,
-
-  
+**Chci jít sama,**
 
 řekla jasně, a protože tě zná, vypnula telefon. Snažíš se uvažovat věcně. Zjevně tě má momentálně dost. Nasytila se. Nemá důvod se vracet. Chce poznat jiné lidi. V něčems ji zklamal.
 
@@ -33,9 +29,7 @@ Vzápětí po ní zatoužíš, až bys řval žalem. Nedovedeš si představit d
 
 Ať už lítá v čemkoliv, musíš ji zachránit. Obalit ji bezpečím, vrátit všechno na začátek. Zalézt s ní někam, kde vás nenajdou. Nějakým způsobem dočasně eliminovat Smrťáka s Rašnou. Vyplatit je – nesmysl. Vydírat – není čím. Co teda?
 
-Vybrat garáž
-
-  
+**Vybrat garáž**
 
 v Lysolajích – to je možná ono. Odvézt veškeré roztoky, krémy a kapaliny, co tam budou. Všechno, co Uma potřebuje.
 
@@ -55,9 +49,7 @@ Rašna je evidentně oříšek nad hranicí tvých možností. Jestli mu chceš 
 
 „Čekám vás zítra o půl dvanácté. Adresu, předpokládám, znáte, zkuste zazvonit.“
 
-Do Hodkoviček
-
-  
+**Do Hodkoviček**
 
 je daleko, a tak máš čas zvažovat, houpán prázdnou sedmnáctkou, s čím vyrukuješ. Nevíš ani, komu patří lysolajská vila. Dům i garáž odemykal Rašna, nejspíš tedy jemu.
 
@@ -119,9 +111,7 @@ Beze slova tě usadí v pokoji, kde je stůl, tři židle, lustr, hodiny, vysok
 
 Nevěda proč pohlédneš na slona na skříni. Běží vpřed, chobot bojovně vztyčen. Je na něm nános prachu, pavučin.
 
-Rašna tě doprovodí
-
-  
+**Rašna tě doprovodí**
 
 ven, zamkne za tebou. Kráčíš nanicovatou okrajovou čtvrtí po chodníku mnohokrát záplatovaném nekvalitním asfaltem. Obzor je zavalen antracitovou černí. Zpoza vrat štěká pes. Směrem od centra vyjí sirény, třaskají rány, bubnují vrtulníky.
 
@@ -137,9 +127,7 @@ Takže ještě jednou: nevíš, co dál. Otevřená řešení selhala – musí
 
 Jo – vlastně ano! To je přece ta třetí možnost.
 
-Vybílit cizí garáž,
-
-  
+**Vybílit cizí garáž,**
 
 nota bene divně situovanou vzadu za barákem ovšem nebude sranda. Chce to přípravu, mapu místa, plán. Minimalizovat možnost, že tam někdo bude. Zjistit, jestli je tam nějaký přístupný vjezd, poněvadž bude třeba ty věci rychle naložit. Plus schrastit auto s řidičem – sám to nezvládneš. A hlavně to všechno potom zašít někam, kde vás nenajdou.
 
@@ -151,9 +139,7 @@ Chvíli trvá, než na něj seženeš spojení. Chvíli trvá, než se mu dovol�
 
 První srozumitelná věta, co z něj vylezla.
 
-Mezitím trčíš doma
-
-  
+**Mezitím trčíš doma**
 
 a doháníš pracovní resty. Bereš, co se nabízí – upravuješ stránky v InDesignu, navrhuješ firemní polepy, leaflety.
 
@@ -169,17 +155,13 @@ Zakladatel European Robotic Research Henrik Christensen zase tvrdí, že bychom 
 
 _Pokud vám bude chybět čelist, ruka či kus kůže, nebude problém_, slibuje jakási Liliana Berezkin. _Pomocí nanovláken vám vypěstujeme náhradu, která vytvoří funkční celek_, dušuje se Liliana. _Zavádění podobných materiálů do klinické praxe brzdí už jen čistě etická otázka. Pravidla zatím nejsou dána, replikace orgánů je však už možná._
 
-Čelist, ruku či kus kůže
-
-  
+**Čelist, ruku či kus kůže**
 
 si už dneska může dovolit kdejaká svině. Třeba JUDr. Lemiš Jurgis a mnozí nad ním a pod ním. Majitelé hodnot. Nová honorace. Vyslanci hrabivé nicoty, kteří jsou tu náhle doma víc než kdo jiný.
 
 Ověřil sis mimochodem, že JUDr. Jurgis vylil perka jenom tobě. Zbytek obyvatel zůstal ve svých bytech. Proč jenom tobě? Důvody můžou být nejvýš dva, první čistě pragmatický. Zato druhý – to už není jen na palici – to je buď prapodivně složitý komplot, jehož praktický cíl si neumíš představit, nebo nějaká vpravdě morbidní hra. Obojí postrádá zakotvení v realitě.
 
-Místo spaní civíš do zdi
-
-  
+**Místo spaní civíš do zdi**
 
 a vzpomínáš: tady jste lehávali, drželi se za ruce, nohy, lnuli k sobě, oťukávali se špičkami jazyků a sledovali LCD. Měla ráda seriály – Black Books, Scott and Bailey, Little Britain, Teorii velkého třesku, Křemílka a Vochomůrku, Most, Případy 1. oddělení a jiné. S otevřenými ústy sledovala pořady BBC-Earth stejně jako jakuzáky na motorkách, Show Jana Krause, DVTV. Animované medvědy z Potkali se u Kolína naopak prudce odmítla. Zato s enormním zaujetím vyhledávala zpravodajské klipy s Kim Čong-unem. To je opravdu člověk? tázala se s nedůvěrou.
 
@@ -193,9 +175,7 @@ Dokument trval přes hodinu.
 
 „No jo – tcho,“ odmávla ho Uma. „Ale zeptej se jich, co dělaj, když jsou mimo službu.“
 
-Ponděláková si dole pouští
-
-  
+**Ponděláková si dole pouští**
 
 pořád dokola Divné století Jarka Nohavici. Z náhlého popudu sejdeš do přízemí, zaklepeš. Vítá tě, zve tě dál.
 
@@ -215,9 +195,7 @@ Na kredenci hotová Sagrada Familia z vinných láhví, PET flašek, placek od 
 
 Vypiješ ještě sklínku a rozloučíš se. Merxbauerová – kde všude už ti zkřížila tahle mondénní opice s ukoptěnými prsty jakoby čistě náhodou cestu…
 
-Před polednem osmého dne
-
-  
+**Před polednem osmého dne**
 
 rozdrnčí schodiště mix známých vibrací: Uma je ve dveřích.
 
@@ -309,9 +287,7 @@ Hladíš ji, tiskneš, líbáš jí ruce, nohy, čelo, hrdlo, což ti vrací se 
 
 „Svítá – jdeme spát,“ říká a shazuje šaty. Svlečená vypadá líp než oblečená – hadříky se na ní mačkají a prošoupávají na jiných místech než na normálních lidech, ale nahá je dokonalá. Pevný zadek, štíhlý korpus. „Polož se, uvolni se,“ dýchá ti do ucha. „Hrabu se ti v moudí – nevadí?“
 
-Objímáte se,
-
-  
+**Objímáte se,**
 
 tisknete, jihnete, vlhnete, zkoumáte objem, obsah, chuť. Chcípal jsi touhou po ní – a najednou je tu. Její ruka jemně přiškrtí tvého vartujícího vojáčka. Její prsa skoro až jako by zazpívala, když je stiskneš.
 
@@ -365,9 +341,7 @@ Zničehonic tě zavalí ochromující únava, nastřádaná za poslední týdny.
 
 „Chrr – chr – víí,“ odpoví Uma.
 
-Odpoledne volá Merxbauerová
-
-  
+**Odpoledne volá Merxbauerová**
 
 a jako vždy nevhod bzučí do sluchátka, jestli byste nepohlídali psa, že by to moc potřebovala a že ho přiveze a že by vám byla moc zavázaná.
 
@@ -403,9 +377,7 @@ a jako vždy nevhod bzučí do sluchátka, jestli byste nepohlídali psa, že b
 
 Dobře víš, že to má občas ráda – vylézt sama na kopec, stát a valit nenasytná kukadla na hemžící se smetiště pod sebou. Vstřebávat jevy, detaily, zvuky. S někým si jen tak pohovořit, tahat z něj rozumy, nasávat rachot, ropot, argot, litanie, sledovat lidi v pozadí. Vše je pro ni uhrančivé, ostré, tajemné, čadící. Nemáš, jak jí v tom bránit, a nemáš, proč jí to nedopřát.
 
-Chlupáč skočí na Umu,
-
-  
+**Chlupáč skočí na Umu,**
 
 radostí jí olízne krk. Posloucháš vzdalující se dupání po schodech. Chvíli zkoušíš pracovat, nejde to. Skočíš si pro láhev vína, nechutná ti. Uvaříš kafe, necháš ho stát. Pustíš si _Nahou pastýřku_, pustíš si _Alibi na vodě_, pustíš si _Svatbu jako řemen__,_ _Labyrint lží__,_ _Drž si šátek, Taťáno!_
 
@@ -419,9 +391,7 @@ Obejdeš parky, nonstopy, náměstí. Pokoukáš, pohovoříš, vypiješ kafe. J
 
 Jedenáct večer – proč tu dávno nejsou? Najednou se ti až zamotá hlava strachem o tu křehkou bytost.
 
-Hodinu před půlnocí
-
-  
+**Hodinu před půlnocí**
 
 opět volá Merxbauerka a sype do sluchátka hlasem, v němž vibrují tenké ostré struny: Pes není doma, co se děje? Kde jsme? Kde je pes? Není u vás? Tak kde je? Proč nevoláte?
 
@@ -435,9 +405,7 @@ Leháš si, přikryješ se, po chvíli shodíš deku, vstáváš. Chodíš po m�
 
 Kéž se někde zamotala, zabloudila, zakecala, zapomněla, kéž někde sedí a lije do sebe alkohol, který jí neškodí!
 
-V 7:45 ráno
-
-  
+**V 7:45 ráno**
 
 dychtí výtvarnice vědět, co je nového. Přiznáš, že nic. Vzdor nelidské hodině se táže, co se mohlo stát. Nevíš – Uma je mimo signál.
 
@@ -455,9 +423,7 @@ Výtvarnice preferuje monolog – mluví o psovi, o sobě, o psovi, o sobě
 
 Žiješ na tomhle kousku světa už drahný čas. Nepřekvapí tě, když u někoho propukne nestandardní psychický proces.
 
-Obvolávání a objíždění
-
-  
+**Obvolávání a objíždění**
 
 útulků vám zabere celý den – Libeň, Modřany, Měcholupy, Hafíci.cz, Nadace Tlapka. Mezitím voláš střídavě Smrťákovi a Umě – nic.
 
@@ -497,9 +463,7 @@ Merxbauerka konečně zaútočí: „Bydlíte s ní a nevíte, kde by mohla be
 
 Drkne do dveří, vystoupíš. Dnes a denně mučený citroen zmizí v oblaku dusivých zplodin.
 
-Připadáš si jako
-
-  
+**Připadáš si jako**
 
 ve zmatené normalizační TV detektivce obsazené Jiřím Lírem, Luďkem Kopřivou a Evou Trejtnarovou.
 
@@ -507,9 +471,7 @@ Jdeš se projít stmívajícím se parkem. Pod nohama ti chrastí směs listí. 
 
 Proč by měla Uma Merxbauerku připravit o psa? Co by tím sledovala? Kam by se s ním poděla?
 
-V ulici U Družstva Ideál
-
-  
+**V ulici U Družstva Ideál**
 
 potkáváš zakrslého mužíka s divně zarudlýma očima. Jako by v lebce měl místo očí dvě přezrálé třešně. Skoro jako Rašna. Zamrazí tě.
 
@@ -519,9 +481,7 @@ Dále potkáváš dvě pejskařky – třeštivě zmalované krhavé baby s po
 
 Míjíš houfy tvorů, kteří chtějí jen jedno – vzbudit se do dalšího dne, migat do práce, tam celý den sedět, pobíhat, rachotit, komplikovat provoz, obědvat, týrat nestravitelnou povahou spolupracovníky. Ve volném čase sekýrovat němou tvář. Stejně by doma v klidu nevydrželi ani hodinu. K noze!
 
-V tu chvíli
-
-  
+**V tu chvíli**
 
 ti to dojde – pes! Merxbauerka mu neříká jménem. Klidně ho nechá v lijáku venku, dává ho hlídat cizím lidem, a pak najednou šílí, když zmizí. V jejím vztahu k němu je něco nepřirozeného. Zjevně k němu nemá až takový vztah, jaký předstírá. Proč ho předstírá? Protože má ve skutečnosti strach o někoho jiného? Pes bude správné vodítko, jenže k čemu, ke komu?
 
@@ -529,9 +489,7 @@ Jak by Uma mohla být schopná ji o něj připravit? Co má pes společného s�
 
 Mozek ti zaplaví nepříjemně konkrétní pocit, že ti buď prdlo v kouli, nebo ses nedopatřením ocitl v budoucnosti.
 
-V následujících dnech
-
-  
+**V následujících dnech**
 
 bloudíš večerními čtvrtěmi. Nakoukneš k Veverce, k Houbařovi, do Kabinetu, Na Slamník, do Malého Berlína, do Liberálu, do Ouky Douky, jestli tam Uma nesedí. Nazítří prosmejčíš Krymskou, Bělehradskou, Nuselskou, Synkáč. Kalírny kolem Míráku – Kravín, Mlsnýho kocoura, Břežanku, Jiný stav, Žlutou pumpu, Černou ovci, Olive Point, Pink Floyd, Reset, Vínečko, Zanzibar. Bar & Grill Fiasko, Merlin Irish Pub, Hospůdku Štěstíčko.
 
@@ -549,17 +507,13 @@ Ve fungl nové restauraci Na Kozačce vyslechneš hovor dvou ležérně oděnýc
 
 „Tak to ber, jak to je, íčo… Casting je mrtvej, ser na živý lidi, ty už nefrčej!“
 
-Jednoho dne ťuká
-
-  
+**Jednoho dne ťuká**
 
 na futro tvých dveří Ponděláková. Je to poprvé, co absolvovala cestu až sem nahoru. Jde rovnou k věci. Utírá si virtuálně zpocené čelo zástěrou a upozorňuje tě, že tvoje nájemní smlouva za pár neděl končí a že už má nového nájemníka. Jestli by ses tedy laskavě včas nevystěhoval.
 
 Počkáš, až odejde, vyhrabeš smlouvu. Opravdu to tam stojí. Z čehož vyplývá, že bylo předem počítáno s dobou tvého pobytu. Splnils zadání, můžeš jít. Nezbývá ti než čekat na další tah.
 
-Nečekáš dlouho: Smrťákův hlas
-
-  
+**Nečekáš dlouho: Smrťákův hlas**
 
 tě telefonicky žádá, máš-li pro něj v tuto chvíli čas. Ptáš se, kde je. Před domem – jak jinak. Odhrneš záclonu – u odpadových kontejnerů stojí starý krab podepřený berlemi, na hlavě bekovku. Cení žluté zuby, není jasné, jestli kvůli slunci nebo kvůli tobě. Kýve, ať jdeš k němu.
 
@@ -615,9 +569,7 @@ Pohlédneš na něj. Po pergamenově průsvitné tváři bývalého střelce, le
 
 „Ne.“
 
-Tohle je tedy jasné:
-
-  
+**Tohle je tedy jasné:**
 
 dohoda s nimi není možná. Zbývá původní plán – dostat se do garáže násilím. Jsi si skoro jist, že tam najdeš něco, co ti pomůže hnout se z místa.
 
@@ -639,9 +591,7 @@ Nezbude ti než se tam vydat naslepo. Sám se do domu nedostaneš. Znáš ale to
 
 Zavoláš mu, sejdeš se s ním, dáte si pár džinů, nabídneš mu výlet do Lysolajů. Nastíníš plán: odveze tě tam, otevře dům, schová se do auta a počká na tebe. Huhňá, že to udělá, když mu dáš pětadvacet litrů. Musí to čtyřikrát opakovat, než mu rozumíš. Při posledním džinu sleví na dvanáct.
 
-Teď už jen odhadnout,
-
-  
+**Teď už jen odhadnout,**
 
 kdy tam bude volno… Rašnovi ani Smrťákovi volat nelze ani z fingovaného telefonu a s najatým mluvčím – hned by jim to došlo. Umino číslo neexistuje, hlásí automat. Volíš tedy nejjednodušší cestu – projíždíš kolem stavení denně na kole, na hlavě cyklohelmu, na očích brýle, přes hubu šátek.
 
@@ -653,9 +603,7 @@ Pokud Rašnu se Smrťákem pojí především ta betonová ratejna za vilou, če
 
 Nepřipouštíš si, že o tebe nestojí. Oheň žárlivosti v tobě spaluje poslední zbytky rozvahy. Víš to, ale nejde s tím nic dělat. Je to neskonale silnější než všechny city předtím.
 
-V neděli panuje hustá
-
-  
+**V neděli panuje hustá**
 
 lezavá mlha, víc si nelze přát. Mikrobusák přifrčí pozdě, táhne z něj skunk, nicméně řídí svižně a vyzná se. Díky mnoha zkratkám a dopravním přestupkům jste před vilou, z níž jsi tenkrát odcházel s Umou, během chvíle.
 
@@ -681,9 +629,7 @@ Najednou zámek povolí.
 
 „H,“ zní odpověď.
 
-Dovřeš za sebou,
-
-  
+**Dovřeš za sebou,**
 
 vstoupíš. Kolem jsou známé police, na nich plechovky, plastové barely, řady krabic. Metrové role alobalu. U zdi tlakové lahve.
 
@@ -693,9 +639,7 @@ Místnost je téměř prázdná. Při zdi zařízení velikosti kredence přikry
 
 U protější zdi vysoká okachlíkovaná nádrž či vana. Pomalu, jako by odtamtud vanul silný vichr, k ní přistupuješ. Namíříš baterku dolů. Nádrž je plná nažloutlé olejovité kapaliny. Světlo prosvítí hladinu sotva do čtvrtiny hloubky. Zdá se, že se tam povaluje něco světlého – plast nebo kus látky. Nastavíš ostřejší paprsek.
 
-Uvnitř se vznáší tělo
-
-  
+**Uvnitř se vznáší tělo**
 
 břichem dolů. Je štíhlé, nahé. Kůže je namodralá, na mnoha místech jakoby zvarhanělá, povolená. Posvítíš na hlavu. Obličej je klidný, v té polotmě působí, jako by se mírně usmívala. Vlasy se vznášejí kolem dokonale tvarované lebky. Když se nakloníš, vidíš pootevřená ústa.
 
@@ -707,9 +651,7 @@ Na tkaničce tvojí boty je uzel. Shodíš rukavice. I tak trvá nekonečně dl
 
 Strčíš nohu do nádrže. Odrazíš se, ponoříš i druhou. Táhne tě to k ní. Hladina ti sahá nad pupek. Cítíš mírné pálení, ale to tě neodradí. Chceš se s ní spojit. Obejmout ji, zvednout jí hlavu nad hladinu, vniknout do ní.
 
-Sotva se jí dotkneš,
-
-  
+**Sotva se jí dotkneš,**
 
 ozve se dunivé bouchnutí. Vedle v místnosti zabzučí zářivky. Cosi kovového je tiše položeno na polici. Nějaký pařát či obrovská hmyzí noha se snaží odsunout půlku vrat. Nazelenalá, hladká. Francouzská hůl.
 
@@ -741,9 +683,7 @@ Krčíš rameny – slovní projev z tvé strany je zatím nemožný. Leda ně
 
 „Člověk je citlivý na řadu podnětů vyvolávajících šok. Ten se navenek zvlášť neprojeví, ale usmrtí rychle. Takže ještě jednou – pryč z nádrže! Mohlo by se vám stát totéž.“
 
-V rozporu se starcovým pokynem
-
-  
+**V rozporu se starcovým pokynem**
 
 se dál dotýkáš vznášejícího se těla. Zdá se ti, že se pohnuly prsty levé ruky. Že proběhl drobný náznak snahy obrátit k tobě tvář. Že se v ní zračí stud za to, jak vypadá.
 
@@ -807,9 +747,7 @@ Zatrne ti. Takhle ostrá, ranivá, na kost holá umí být pravda.
 
 „Rašnova dcera.“
 
-Stojíte nad nehybným
-
-  
+**Stojíte nad nehybným**
 
 trupem. Z jakési hadičky probublávají bubliny zvolna stoupající k hladině. Stařec hledí poloslepýma očima do nádrže. Jeho tvář je mrtvá, veškerý ajfr z ní vyprchal.
 
@@ -839,9 +777,7 @@ trupem. Z jakési hadičky probublávají bubliny zvolna stoupající k hladin
 
 „To jste na tom hůř než na začátku.“
 
-Otáčíš se,
-
-  
+**Otáčíš se,**
 
 jdeš pryč, Smrťák tě vyprovází. Cestou si s hekáním podává pomocí berle z police věc, kterou tam odložil – loveckou kulovnici. Drží ji hlavní k zemi. Kdyby ji použil, asi si to vzhledem ke svým stykům vyžehlí. Střelná rána ovšem přiláká pozornost. Nespaví důchodci, klimbající televizní babky, kojící matky, členové Facebookovy církve, kdekdo v okolí by ji mohl zaslechnout. Napřed je třeba uklidit Umu.
 
