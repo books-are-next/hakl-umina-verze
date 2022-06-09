@@ -3,8 +3,8 @@ title: ''
 contentType: prose
 ---
 
-Situace moderního člověka není jen zoufalá –  
+_Situace moderního člověka není jen zoufalá –  
 je takříkajíc nepřítomná,  
-protože člověk téměř neexistuje.
+protože člověk téměř neexistuje._
 
 VIKTOR PELEVIN

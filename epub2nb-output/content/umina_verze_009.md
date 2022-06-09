@@ -3,9 +3,7 @@ title: ''
 contentType: prose
 ---
 
-A tak jdete bok po boku
-
-  
+****A tak jdete bok po boku****
 
 Lysolajským údolím. Postava vedle tebe svižně rázuje, chvílemi mírně vrávorá. Problém jí, zdá se, dělají zvýšené obrubníky. Tu a tam škrtne podrážkou o žulu. S lupnutím prolamuje kolena.
 
@@ -35,9 +33,7 @@ Osmělíš se pohlédnout jí do tváře. Mírně zdvižený nosík, pleť such�
 
 „Lepší jet autobusem,“ zabublá.
 
-Dojdete k zastávce
-
-  
+**Dojdete k zastávce**
 
 v zatáčce pod vilami. Jste na ní sami. Déšť ustal. V pouličním světle má vše kolem vás barvu třpytivé moči. Z mlhy vonící spáleným dřívím vystupují zábradlí, ploty, hromady tvárnic, zaparkované vraky aut, červeno-bíle pruhované zábrany kolem výkopů. Na kopci nad vámi září osvětlený kostelík svatého Matěje.
 
@@ -53,9 +49,7 @@ V dálce se ozve hudrování naftového motoru.
 
 „Jede autobus,“ huhňá. „Nastoupíme a pojedeme, ano?“
 
-Matně zářící krabice
-
-  
+**Matně zářící krabice**
 
 brzdí. Nastoupíte. Vzadu pár halasících skupin, vpředu několik solitérů úporně zabraných do pozorování krajiny. Sedáte doprostřed. Houpáni v horkém nálevu rozpačitého mlčení hledíte do tmy.
 
@@ -121,9 +115,7 @@ Hledíte ven. Na Nuselské je rušno. Jekot, hádky, městská policie, halekán
 
 Na výhybkách to s vámi tvrdě hází.
 
-Procházíte parkem
-
-  
+**Procházíte parkem**
 
 k tvému bydlišti. Protahuješ krok, abys kompenzoval výkon amazonky. Kráčí jako na jehlách – rychle, exaktně, nezničitelně. Co je to za kafkárnu, říkáš si. Kdo tě k tomuhle, bláznivko, přemluvil?
 
@@ -143,9 +135,7 @@ V předsíni shodí boty, kabát, šálu. O dvě čísla větší svetr si pon
 
 „Samozřejmě,“ říkáš. „Koupelna je vpravo, světlo vlevo.“
 
-Pečlivě nasloucháš,
-
-  
+**Pečlivě nasloucháš,**
 
 jak chrastí předměty sypané ze zavazadla, jak šustí odhazované svršky, jak funí, tiše jíká, ťuká kartáčky, cinká plechovkami. Pouští vodu. Snad až moc naplno a hlavně dlouho. Nač, doboha, tolik vody?
 
@@ -203,9 +193,7 @@ Možná je nafetovaná, možná bláznivá. Každopádně prazvláštně krásn�
 
 „Podejte mi ji.“
 
-Hebká pokožka, pružné vazivo,
-
-  
+**Hebká pokožka, pružné vazivo,**
 
 přiměřený stisk, v němž nicméně schází obvyklá lidská deviza – pot, náznak nejistoty, přehnané jistoty, nic.
 
@@ -249,9 +237,7 @@ Hrábneš do šuplete, chroupeš piluli. Tělo vedle tebe začíná pravidelně 
 
 Rozumné řešení by bylo vstát, vyklouznout ven, pročesat okolní ulice. Zjistit, kde ti dva parkují ten svůj jeep. Najít je, přijít k nim, zaťukat a říct: Pánové, dobrý! Doufám, že jste se pobavili, já toho mám tak akorát! Odvezte si ji, a to hned!
 
-Po ránu ti vedle postele
-
-  
+**Po ránu ti vedle postele**
 
 zuřivě bliká mobil. Akademická malířka Merxbauerová se nezdržuje formalitami a rovnou zajíkavě hlásí, že má na zbytek dne domluveného _milouna_, chtějí spolu do akvaparku a tak, a že by tě moc prosila o hlídání pejska, pokud je to aspoň trochu možné.
 
@@ -301,9 +287,7 @@ Vrací se natřená, vyčištěná, uhrančivá, svěží.
 
 „Tak jo.“
 
-Přešlapuješ před domem
-
-  
+**Přešlapuješ před domem**
 
 a čekáš na psa. Uma je nahoře, údajně se stydí poznávat nové lidi. U obrubníku brzdí zablácený citroen. Akademička vyskočí, vy­poulená, bledá, mrtvě černé vlasy jí vlají, krátce vycení křivé zuby, vytáhne ušatého šampióna, vrazí ti do ruky vodítko a vytřeštěně odjíždí za _milounem_.
 
@@ -317,9 +301,7 @@ Máš před očima obraz splynutí. Od vteřiny jsi tady navíc. Máš možnost 
 
 Před dvěma nedělemi jsi neměl ani klíče od bytu a najednou máš rodinu – svěřeného psa a půjčenou holku.
 
-Jdete Nuslemi podél Botiče na Výtoň,
-
-  
+**Jdete Nuslemi podél Botiče na Výtoň,**
 
 džungle náletových dřevin chrastí ve větru. Nové a nové výhonky se derou zpod mastné rezavé půdy podél drolících se zdí.
 
@@ -341,23 +323,17 @@ Uma dává chlupáčovi pod stolem němé povely, ovládá ho, mluví s ním, s
 
 Pán podobný kurátu Katzovi v civilu bez buřinky vás ozařuje žlutým úsměvem a bez ptaní vám poroučí panáky fernetu.
 
-Kousek pod vilou,
-
-  
+**Kousek pod vilou,**
 
 kde obýváte půdní hnízdo pod vikýřem, se nachází parkoviště částečně kryté zdí. Vždycky, když jdeš kolem, mrkneš tam, nezahlédneš-li Smrťákův jeep. Obsese, zlozvyk, tik a koneckonců hlavně logika – ti dva nezmizeli. Nutně je musí zajímat, jak ta jejich freak show pokračuje.
 
-Uma spí,
-
-  
+**Uma spí,**
 
 ty sedíš v křesle a posloucháš, jak dýchá. Odfukuje, budí se, neseš jí vodu, vyžádá si panáka bourbonu, chce tvoji ruku, chvíli ji žmoulá, jemně ti okusuje prsty, usíná. Být s ní je jako být se zvířetem, za které cítíš zodpovědnost, protože tě potřebuje. Celé hodiny a dny zapomínáš sledovat, jestli je mezi vámi rozdíl a jaký.
 
 Vedle toho jsi plný více či méně pošahaných teorií. Jedna popírá druhou a všechny dohromady vylučují ze hry zdravý rozum. Teorie však nejsou hmatatelné, Uma ano. _Řečeno jinak, hlas pravdy má podezřelý vedlejší šelest, ale ti, co jsou jí nejblíže, nechtějí o tom nic slyšet_, říká Robert Musil, jehož tu nebožtík inženýr zanechal v knihovně hned vedle dvoudílného svazku Německá obrněná technika od Iva Pejčocha.
 
-Na skříni v chodbě
-
-  
+**Na skříni v chodbě**
 
 stojí vzhůru kolama dva bicykly – tvoje stará Merida a dámský trek, který ti nechala na krku známá, co se vdala a kolo nechala plavat.
 
@@ -375,9 +351,7 @@ Venku probíhají pozdně letní dny – optimální čas na sérii výletů t�
 
 Snesete kola dolů. Uma nasedne, chvíli chytá balanc, načež to pochopí, šlápne do pedálů a je v luftu. Posléze tě dohání zezadu, neb objela blok, a mává, že to půjde.
 
-Voláš známým do Šemanovic,
-
-  
+**Voláš známým do Šemanovic,**
 
 kam tě před časem srdečně zvali na chalupu. Ptáš se, zda byste je o víkendu nemohli s přítelkyní navštívit. Ve sluchátku chrastí vítr, praskají rozpaky. Vlažně souhlasí. Je jasné, že bude lepší pozdravit je, dát si kafe a vypadnout, případně nedojet až k nim. Ale jako latentní cíl jsou Šemanovice správným směrem – klidná cesta Polabím.
 
@@ -421,9 +395,7 @@ Dívá se do mapy. „Šemanovice jsou už jenom osmnáct kilometrů odtud,“ t
 
 „Ráda bych se naučila zlobit, ale neumím to.“
 
-Čekání na motorák
-
-  
+**Čekání na motorák**
 
 uprostřed polí znamená několik fernetů ve prospěch družby Srbsko – Čechy s dalšími srbskými dělníky u další kořalečnické boudy. Řeč posléze ústí v hádku na téma Češi – Srbové, náznakem facek i objetí a nakonec siestou zakončenou za boudou v kopřivách.
 
@@ -451,15 +423,11 @@ Třicetiletý průvodčí s dlouhými řídkými vlasy, na něž má naraženou
 
 Tím pádem na sebe strhne pozornost Moravačka, třímající v průhledném igelitovém pytlíku pár z posledních sil plujících akvarijních rybek. Nemá lístek, ale nabízí rybičky, tašku klobás, cokoliv – třebas i ten lístek že si koupí. Po chvíli k ní přisedá poďobaný kovboj, co ho před pár dny opustila holka. Tiše jí o tom vypráví. Moravačka si stěžuje, že je přetažená, že furt pracuje, že chce domů, že má novou tašku a že má žízeň.
 
-Na obzoru kouří Neratovice.
-
-  
+**Na obzoru kouří Neratovice.**
 
 V jedovatých dýmech stoupajících z chemičky pluje nedomrlé nazelenalé slunce. Kromě bezradného kovboje – ten by rád nějak zachránil Moravačku, ale neví jak – jste všichni rádi, že se zvolna blíží pražské předměstí.
 
-„Já bych se tak ráda šla projít…,“
-
-  
+**„Já bych se tak ráda šla projít…,“**
 
 vzdychá od té doby preventivně Uma. Jízda na kole ji totiž ani trochu nenadchla. Nezaujala ji role mlčícího šlapače. Minul ji půvab písčitých lesních cest, zrnitých asfaltek, říčních ramen, stulíků, koupališť, barů, dřevěných můstků. Neocenila lužní lesíky.
 
@@ -467,9 +435,7 @@ O to víc si zamilovala chůzi ve dvou po městě. Chodíte tedy. Když je čas
 
 Chvílemi se ti po jejím boku ještě bez varování tu a tam zhoupne žaludek, máš tendenci dávit, zbavit se jí, utéct, ale zlepšuje se to. Podstatné je, že se máš vedle koho budit.
 
-Couráte kolem slepého
-
-  
+**Couráte kolem slepého**
 
 ramene Vltavy v Libni. Učíš ji plivat do vody. Její sliny jsou nitkovité, vazce kanoucí, zelinkavě bílé, s nádechem malachitu.
 
@@ -551,9 +517,7 @@ Kolem vás prosviští po asfaltu trojřad kancelářských sviněk na dvoukolk�
 
 Uma se ohlédne, pak mrkne na tebe. Máš dojem, že překvapeně. Bereš ji za drobnou chladnou ručku, scházíte po pěšině do trávy vedoucí těsně podél vody. Vyhýbáte se rybářům. Chvílemi jí foukáš do vlasů, hladíš ji po zádech, lížeš okraj ucha. Pes běží za vámi.
 
-Doma se svalíte
-
-  
+**Doma se svalíte**
 
 na postel. Ležíte vedle sebe. Dotkneš se jí. Pohladíš po hlavě. Její tělo je horké, zdá se ti být žádoucí. Dáš jí lehkou pusu.
 
@@ -615,9 +579,7 @@ Uvolníš jí židli. Sedá na ni. Hledíš na její profil. Vlasy jí visí pod
 
 Zasažen informací ležíš jak dřevo. Dělají si z tebe prdel, jinak to nedává smysl. Ale Merxbauerka tu je – nepřetržitě se vám vnucuje se psem. Tohle přece není souběh náhod. To není.
 
-Uma zavře počítač,
-
-  
+**Uma zavře počítač,**
 
 otočí se k tobě. Zírá na tebe jaguáříma očima. Než stačíš povolat zpátky do boje skepsi, lehce přeskočí půlku postele, dopadne na tebe. Znovu tě překvapí, jak je lehoučká.
 
@@ -667,9 +629,7 @@ Načež se něco zlomí. V tobě, v ní. Omotáte se údy, bezbřeze se osahá
 
 Uma se drobně chvěje. Tisknete se, dlouze se hladíte. Jako byste se vznášeli v lehké, dráždivě vazké pěně.
 
-Lidská něha
-
-  
+**Lidská něha**
 
 je paskvil proti erupci naprostého oddání, které z ní vyzařuje. Vklouzneš do ní, ani nevíš jak. Uvolněně se milujete. Uvolněně úplně ne. Cosi v ní tě hlídá. Monitoruje tvůj mozek, tep. Její tep se rovněž zrychluje. Jde ti naproti. Zornice jí světélkují jako hlubinné rybě. Kladeš ruku na její klenuté, kupodivu orosené čelo. Lízneš si – kapalina je nahořklá.
 
@@ -695,9 +655,7 @@ Následují celodenní záchvaty doteků, lísání, líbání, laskání, máme
 
 Později se naučíte další věc: být pořád v sobě. Neoddělovat se. Přivážete se k sobě pásky od županů – pánev, boky, ohanbí, též mezi půlkami fest utáhnout kvůli záhadné lidské povaze, která si libuje v řitní stimulaci. Setrváte tak celou noc. Později pásek nahradíte elastickou šňůrou. Ta vám umožní provádět volné kopulační fantazie, ale nedovolí vám oddělit se. Po nějaké době získáš schopnost vypouštět mlíčí, aniž se dostaví erekce. Tekutina odchází ve volných sladkých vlnách, mnohdy i uprostřed spánku.
 
-Dřív jsi míval
-
-  
+**Dřív jsi míval**
 
 problém uvolnit se, aby vůbec k něčemu došlo. Desítky let ti tahle problematika rozežírala mozek. Býval jsi nesoustředěný, netrpělivý, nerudný. Choval ses nesrozumitelně, mávaly s tebou různé boční vášně. Často jsi zahýbal. Utíkals od lidí, s nimiž jsi měl zůstat, a naopak. Neuměl jsi vytvořit iluzi domova, emoce byly holé, plné neshod, lží, řečí, slibů. Hromadící se špatné svědomí způsobilo, že jsi během posledních let vztahy už jenom markýroval.
 
@@ -735,15 +693,11 @@ Montážní představa v protějším fotelu upíjí alkohol, češe si hřeben
 
 „Jsem,“ opáčí a odhodí chumlík vyčesaných žíní na koberec.
 
-V životě ses tolik nenachodil
-
-  
+**V životě ses tolik nenachodil**
 
 jako teď s ní. Sotva dosnídáš a vyřídíš nejnutnější části obživy, pověsí na tebe prosebná kukadla. Otázka nezní, jestli půjdete, otázka je kam. Někam, kde jste ještě nebyli. Pomalu ale jistě vám začíná být Praha malá.
 
-Stoupáte strmými pěšinami
-
-  
+**Stoupáte strmými pěšinami**
 
 ke zřícenině Baba nad Trojským údolím. Kráčíte mezi zmoklými keři. Každý list je zatížen jednou velkou vodní kapkou. Na hřbetě trávníku bláznivě skotačí dva zrousaní hafani. Páníčkové se klepou pod deštníky, šlukují cigaretky a něco si šuškají.
 
@@ -893,15 +847,11 @@ Do zad vás udeří pár vodních kapek.
 
 „Klidně.“
 
-A tak jsi s ní začal žít.
-
-  
+**A tak jsi s ní začal žít.**
 
 Po sedmi nedělích jsi ji přihlásil jako spolubydlící. Především, pravda, proto, že ti baba Ponděláková obden vrtala díru do hlavy – všecko moc dobře chápe, jistě, taky byla mladá, ale muj ty Kriste – všichni máme ňákou tu hmotnou zodpovědnost! Popeláři, stoupačky, vodný, stočný. Vyhne se tomu někdo? Za měsíc přijdou rekonstruovat vokna, z čeho to mám platit… Vy jste slušnej nájemník, aspoň se mi tak zdáte, jóó? Nic proti vám! Jenže mít na bytě nepřihlášenou vosobu znamená vyšší elektriku, plyn, vodpad! Snad taky žijete nohama na zemi, sousede! Přihlašte si paní a nikdo vám neřekne křivýho slova, já mezi prvníma! Myslíte si to taky? Šlo by to, jóóó?
 
-Uma to přijala
-
-  
+**Uma to přijala**
 
 bez námitek. Každodenní život je pro ni naplněn fantastickými přeludy. K smrti ráda chodí nakupovat k Vietnamce, kde si připadá jako doma. Vietnamka se bezelstně culí, ječí na někoho po skypu, pak si najednou navzájem líbají ruce, případně Uma krátce podrží její dlaně ve svých. Dlouhé minuty spolu hovoří.
 
@@ -911,9 +861,7 @@ Když jednou řízením náhody spatřila, jak Vietnamka v prudkém lijáku vyl
 
 Tu a tam je chodíš sledovat. Lidská žena vyniká arytmickou elegancí pohybů, Uma je agilnější, sekavější, tvrdší.
 
-Občas sama vyvenčí psa,
-
-  
+**Občas sama vyvenčí psa,**
 
 načež ho vrátí Merxbauerce, pijí spolu kafe a kdovíco. Rády se ale, jak vidíš z oboustranných náznaků, nemají. Potom se projde, koupí u Vietnamky láhev dryáku navečer, salamandřím krokem zdolá přízemí, drnčivým skokem rozezní kovové schodiště, rozrazí dveře a je tu.
 
@@ -927,9 +875,7 @@ Nechcete toho moc – cider, nějaký lepší bourbon, čas od času láhev Hen
 
 Co se týká domu – beztak máš dojem, že v něm kromě vás a Pondělákové nikdo nebydlí. Občas zaslechneš monology, hádky, rány ze sklepa, škrkání na chodbě, splachování, ale to může být televize nebo příležitostní řemeslníci.
 
-Procházky vás občas omrzí,
-
-  
+**Procházky vás občas omrzí,**
 
 filmy a hry nikdy. Má ráda všechny verze slovního fotbalu, krabičky, mikádo, očko, prší, poker, kloboučku hop, scrabble, různé IQ testy, Half-Life 2, Quake 4, tetris, Deus Ex, _čáp ztratil čepičku_. Je šťastná, když slyší rozpočítadla, říkadla, miluje sprosté písně. Většinu si hned zapamatuje a chce další, takže musíš vzpomínat a vybavovat si pořád pryč. Když dojdou říkadla, stačí názvy ulic, čtvrtí, zemí, planet, geologických útvarů.
 
@@ -1041,9 +987,7 @@ Odměnou je ti kropicí scéna s nutnou výměnou košile.
 
 Lechták je prosté poškrabování v podpaží a na břišní stěně. S podivem zjišťujete, že je lechtivá. Diví se tomu mnohem víc než ty.
 
-Ode dne,
-
-  
+**Ode dne,**
 
 co je váš pobyt oficiální, se baba dole může rozskočit zvědavostí. Tříská různými předměty. Za každým je otázka: Jak je možný, že jsou furt doma? Nemaj auto, děti, příbuzný, nikam nechoděj? Leda s batůžkem na vejlet? To jako nemusej nikam chodit? Nikde nepracujou?
 
@@ -1075,9 +1019,7 @@ Obdaří tě elektrickým pohledem. Pocítíš slabost v kolenou spojenou s hr
 
 Nakupujete v Palladiu. Vrcholem Umina extatického vytržení jsou šupinaté, měděně zbarvené kotníkové botky podobné těm, v nichž na středověkých freskách postávají tehdejší kavalíři.
 
-Když se přehoupne půlnoc,
-
-  
+**Když se přehoupne půlnoc,**
 
 Uma usíná. Říkáte tomu tak. Lehne si, nastaví předvolbu (jak přesně, nevíš, díváš se raději do stropu), čtvrt až půl hodinky si povídáte, pak se odpojí. Zticha ale není – vrní jako elektronická hračka. Jemně jí cukají prsty u nohou. Vydává různé vůně. Když je v polospánku, často provádí synchronizování složek, jak tvrdí, ale spíš máš dojem, že se jen tak fláká. Naučila se to od tebe a zjistila, že jí to vyhovuje.
 
@@ -1103,9 +1045,7 @@ Rozestavíte figury, dostaneš osmým tahem mat.
 
 Ležíte, držíte každý svou sklenku. Má to v sobě cosi dekadentního. Stejnou měrou zábavného jako ničivého.
 
-Od chvíle, co sem Uma
-
-  
+**Od chvíle, co sem Uma**
 
 papírově patří, stavívá ji pravidelně Ponděláková dole na schodech a pokouší se s ní čvaňhat. Na druhý až třetí pokus Umě dochází, o co jde. Hloupou mečivou nánu bez názoru se naučila imitovat výtečně. Začala se na setkání s bábou připravovat. Přežvýkala iDnes, Lidovky, Aha!, Šíp, Newsweek, BBC, Českou pozici, Parlamentní listy, Facebook a další zdroje.
 
@@ -1113,9 +1053,7 @@ Barákem se nese ukázkově prázdný, maloměšťácky houkavý rozhovor.
 
 Sedíš nahoře, dveře dokořán, a posloucháš to. Cítíš zelí a naftalín. Pražsky protahované koncovky v Umině podání tě pravidelně dohánějí k sladkokyselému amoku.
 
-Na tvé známé
-
-  
+**Na tvé známé**
 
 a známé jejich známých se naopak naučila být jako mílius. Začalo ji bavit chodit do podvečerních barů, putyk, děr, divadel, pajzlíků. Podmínka – v místnosti musí panovat chcípácké osvětlení. Polostín, žádné stolní lampičky, svíčky. Nebo aspoň musí být natřísknuto jako v úlu. Jeden řve na druhého, třetí na prvního. Piva, panáky, dým.
 
@@ -1125,9 +1063,7 @@ Ty už vůbec ne. K tomu ten její smích… Liješ do sebe panáky, kyselé ka
 
 Jdeš se vymočit. V zrcadle na WC vidíš parodii na své mládí.
 
-Vracíte se domů
-
-  
+**Vracíte se domů**
 
 jako obvykle stejnou trasou – z Nuselské po schodech k parku Na Jezerce. Kolem pustých dětských hřišťat, nudných platanů. Občas se sklouznete na klouzačce, prolezete prolézačkou, vylezete a slezete z něčeho, pro co neexistuje název, na něčem dalším se projedete a zadýcháni jdete dál.
 
@@ -1165,9 +1101,7 @@ Nechceš. Zabouchneš dveře, vracíš se pěšky kombinací zkratek, oklik, př
 
 Je-li tomu tak, jste oba mrtví. Žijete v ghettu pro dva. Je jisté, že s tím Smrťák počítá. Nakonec se nemálo snažil, aby vás uklidil stranou všech aktivit. Teď se ještě potřebuje ujistit, že panáčkuješ, jak píská.
 
-Hned po příchodu
-
-  
+**Hned po příchodu**
 
 domů otevíráš windows a honíš obživu, zatímco Uma zírá na LCD – s nepochopitelnou radostí vnímá díl padesát let starého kresleného seriálu Jak si Křemílek a Vochomůrka ani nelízli povidel. Následuje pátý díl seriálu Byli jednou dva písaři, Šíp s Uhlířem, Suchánek s Genzerem, Kaiser s Lábusem, Čoko Voko, Butch Cassidy a Sundance Kid. Dále desítky dílů seriálu Uvolněte se, prosím, starší klipy Tenacious D., EKG Malijevského s Rudišem.
 
@@ -1215,9 +1149,7 @@ domů otevíráš windows a honíš obživu, zatímco Uma zírá na LCD – s�
 
 „O jéje – dám!“
 
-Uživit ji i sebe
-
-  
+**Uživit ji i sebe**
 
 by nemělo být náročné. Jenže ses na to přechodně vykašlal a teď se ti to vrací – nedoplatky, upomínky, sms s anonymními návrhy výhodných půjček, což je vždy neklamný příznak propadu. Zkoušíš shánět kšefty přes známé z lepších časů. Přes ty, co taky opustili zateplená koryta, protože na jejich dně nezahlédli štěstí. Teď jsou na tom stejně jako ty – navzájem si přeposíláte, co druhý nestíhá. Mizerně placené korektury, webovky, kampaně na prací prášky.
 
@@ -1225,9 +1157,7 @@ Na Umu tím pádem nemáš tolik času, kolik bys chtěl. Stává se z toho pr�
 
 Co vás k sobě původně táhlo jako magnet, pomalu slábne. Celo­denní rozhovory plné čerstvých jevů a doteků jsou řidší a řidší.
 
-První dny babího léta
-
-  
+**První dny babího léta**
 
 vás vytáhnou ven. Brouzdáte po Klamovce, v Košířích. Stoupáte zalesněným temným dolem lemovaným neméně temnými činžáky vzhůru do kopců. Couráte seschlými libosady, smetišti, odložišti. Uma se rozhlíží, kroutí hlavou jako sova. Nic ji dlouhodobě neza­ujme, zato kdeco prudce udiví.
 
@@ -1239,9 +1169,7 @@ Neodpustíš si úvahu, kde jsou ti, co tady před nedávnem jakž takž existov
 
 Uma jde do středu louky, tam se zastaví. Působí fragilně, bezmála průsvitně. Vypadá ještě křehčí než jindy.
 
-Vracíte se zpátky
-
-  
+**Vracíte se zpátky**
 
 do civilizace. V dálce spatříš řady topolů, tenisový kurt, hřebeny vil – listím zavalené Košíře. Kopcovité kolonie bývalých boháčů, dožívajících ve stínu nových zbohatlíků.
 
@@ -1283,9 +1211,7 @@ Hovoří o mně.
 
 Uma mhouří zornice, cosi říká. Chechtají se jako dvě strigy.
 
-V půl třetí v noci se potácí
-
-  
+**V půl třetí v noci se potácí**
 
 úzkou uličkou po kočičích hlavách navzájem se objímající šestinohý tvor.
 
@@ -1353,9 +1279,7 @@ Klesáte pěšky dolů divně pomotanými ulicemi přerušovanými železniční
 
 „Máš mě rád, já vim.“
 
-Běžná vztahová krize,
-
-  
+**Běžná vztahová krize,**
 
 dalo by se říct. Nedokážeš jí nabídnout nic nového. Je pozdě cestovat k Atlantiku, jet se opít do Finska, případně chcípnout na Island. Pozdě vymýšlet novou společnou vášeň, nebo aspoň recyklovat nedávné časy plné her. Jedině ještě procházky se psem ji dokážou rozehřát. Procházky se psem a chlast.
 
@@ -1385,9 +1309,7 @@ Kolegyně je mediální analytik. Odbornice na lidské slabosti. Další po dlou
 
 „No tak já jdu, pa!“ vlepí ti pusu umaštěnou jelením lojem.
 
-Cestou domů
-
-  
+**Cestou domů**
 
 močíš do suchých pcháčů u zdi. Uma rázuje dál. Nečeká na tebe. Kdybys ji nedohnal, půjde tím svým husarským krokem, kam ji oči povedou. Zahne za roh, zmizí. Vyběhne schody a je v ulici, kde ještě nebyla. Kde to ještě neprozkoumala.
 
@@ -1395,9 +1317,7 @@ Doma se objeví v noci či k ránu. Zatím se vždycky vrátila, nicméně si 
 
 Její mládí je pryč. Trvalo pár měsíců, teď je z ní dospělá bytost. Už nevstřebává informace s nadšením postpuberty. Nehodnotí je. Neptá se. Nemusí se ptát – už to taky vidí, jak a z čeho se tady žije.
 
-„Nepůjdeme trochu mezi lidi?“
-
-  
+**„Nepůjdeme trochu mezi lidi?“**
 
 zní její každodenní otázka. Kde ty lidi pořád brát, říkáš si a projíždíš adresář. Jsou na stážích, v cizině, na horách, na ATD, mají děti, jsou po úrazu, po sebevraždě, berou kortikoidy, někteří jsou v politice, další sedí, jiní se odstěhovali „za město“. Mnozí se srdečně vymluví, protože pro ně nejsi dost in. Čtyři až pět autenticky zábavných chlapíků a dvě tři prima ženské nepřipadají v úvahu, protože se děsí neznámých jedinců opačného pohlaví.
 
@@ -1411,9 +1331,7 @@ Užíráš se žárlivostí. Jednoho dne toho máš dost. Zvedneš se, platíš 
 
 „Já tu ještě zůstanu,“ opáčí.
 
-Nezbývá ti
-
-  
+**Nezbývá ti**
 
 než jít sám. Je na světě chvíli, říkáš si, potřebuje zážitky, impulzy, přej jí to. Nesmíš jí v tom bránit. Běhat opičí dráhu od snídaně do večeře není pro ni. Miluje nová setkání, večerní provoz. Ráda pokecá s taxíkářem, studuje lidskou náplň nočních ulic, podniků, spojů.
 
@@ -1433,9 +1351,7 @@ Nevnímá tě. Drmolí cosi pro sebe: „Eusti-gmato-fyti prej vydržej velkej n
 
 „Právě že nedělám. Týká se to prazákladů života – čili i tebe.“
 
-Další Smrťákův telefonát
-
-  
+**Další Smrťákův telefonát**
 
 je stručný: „Jste doma?“
 
@@ -1479,9 +1395,7 @@ Provedeš úkon usednutí na přední sedadlo.
 
 „Správně.“
 
-Uma luxuje;
-
-  
+**Uma luxuje;**
 
 zaujal ji vysavač. Baví ji to. Postupuje nesoustavně – pár pavučin na stropě, prach v zákoutích, tu a tam místa, kam by ses v životě nepodíval. Dá na stůl židli, balancuje na ní, vysává lustr. Drobky na koberci a hromady prachu pod postelí nechá, ty jí neinteresují.
 
@@ -1515,9 +1429,7 @@ Vypíná vysavač: „Co chtěl?“
 
 „Pojeď, tím mi hodně pomůžeš – budeš stát na zahradě se Smrťákem a klábosit o MiGu-15.“
 
-V pátek ráno
-
-  
+**V pátek ráno**
 
 brzdí Smrťákův vehikl před domem. S jistou škodolibostí pozoruješ vikýřem, jak nekonečně složitě opouští obludu pomocí francouzských holí. Belhá se do domu. Poté máš možnost sledovat, jak se zoufale snaží dostat po vachrlatých plechových schodech do vaší komůrky.
 
@@ -1543,9 +1455,7 @@ Pomáhat Smrťákovi ze schodů je úmorně složitá groteska.
 
 Soukáme se do vysokého auťáku. Uma na zadním sedadle mlčí. Ač je venku krásně, stařík přitápí motorem, límec péřové bundy vyhrnutý k uším, přes kokos naraženou bekovku. Tu a tam po tobě hodí okem podlitým bledou krví. Během cesty nepadne ani slovo.
 
-V Lysolajích Smrťák otevře
-
-  
+**V Lysolajích Smrťák otevře**
 
 dveře a řekne Umě: „Pojďte.“
 
