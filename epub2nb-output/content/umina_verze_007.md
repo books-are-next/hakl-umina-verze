@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 **Dřív, než zámek klapl,**
 
 věděl jsem, že se stalo, k čemu jsem spěl už delší čas. Zabouchl jsem si bez klíčů. Jdu dolů k popelnicím, v rukou igelitky se smetím, otevřu víko, mrsknu je dovnitř. Nitro vypustí roj mušek, puch ředkví, flákot.
@@ -15,9 +17,17 @@ Sednu před domem na trubkovou ohrádku pod javor. Hledím na venkovní zvonky, 
 
 Koruny javorů redukují tvrdý sluneční žár na zlatožluté mihotání. Malátný větřík šustí ve větvích.
 
+</section>
+
+<section>
+
 **Hodinku, dvě nic.**
 
 V jednu chvíli se za záclonou zjeví stará Horká, s níž pěstujeme potravní komunizmus. Čas od času zazvoní, strčí mi do ruky vlažný řízek v alobalu. Občas zvoním já, nesu kastrůlek čerstvě dopečených francouzských brambor. Dokud byl její muž naživu, vyvolávala vleklé domovní spory, vymáhala odškodné za údajně promáčené stropy, škaredila se na všechny jak čertice, nezdravila. Co umřel, je jak vyměněná. Ráda vcelku soudně pohovoří na téma Ukrajina, Střední východ, slezský bigos, křečové žíly, co s námi bude.
+
+</section>
+
+<section>
 
 **Než stihnu mávnout, je fuč.**
 
@@ -34,6 +44,10 @@ Když tohle kolečko zopakuju potřetí, přestane mě bavit a pustím se dál.
 Cestou podrobím svoje svršky zevrubnější prohlídce. Z pravé stehenní kapsy vytáhnu odrbaný paperback povídek Roberta Perišiče. Z druhé malý švýcarák a vizitku Daniela Podhradského, toť vše.
 
 Jsem bez kreditky, dokladů, brýlí, bez mobilu.
+
+</section>
+
+<section>
 
 **Opřen o zábradlí nad vinicí Grébovky**
 
@@ -61,6 +75,10 @@ Tisknu domovní zvonek.
 
 „Já ho nehlídám, spíš ne. Ani tě nepozvu dál, mám tu bordel, čau.“
 
+</section>
+
+<section>
+
 **Další člověk, kterého mám šanci zastihnout,**
 
 bydlí na opačném konci města. Za kopcem, za kopcem a ještě za kopcem. Sotva vlezu do metra, natrefím na kordon revizorů s policejním jištěním.
@@ -75,6 +93,10 @@ Doufám, že když nemám manželku, nemůžu touhle mantrou nikomu uškodit. V�
 
 V zadní kapse objevím zmuchlané čtyři stovky. Mohly vydat na taxík, ale padnou na rohlíky, rajčata, sýr, dvě láhve fronsacu a balenou vodu.
 
+</section>
+
+<section>
+
 **Radlická, Klímova,**
 
 Na Farkáně, Peroutkova. Přelezu koleje, projdu lesíkem, vyšlapu pláň. Nahoře ve svahu vidím střechu řadového domku, kde bydlí kamarád se ženou, psem, dětmi a s trampolínou. Dojdu ke vchodu, s nosem ve zvoncích hledám jméno. Brýle nemám.
@@ -84,6 +106,10 @@ Naposled podržím zvonek, než se odtrhnu a jdu zpátky sálající asfaltkou.
 Pode mnou je dolík zarostlý plevelem.
 
 Nad ním ostře bručí a rotuje upoutaný model. Barvou krve natřené, zjevně nijak lehké letadélko. Benzínový motor chrlí žlutavý kouř, serva cukají s kormidly. Prudce se láme ve svíčce, jde dolů, nad zemí to vybere, vystřelí k nebi, přepadne na záda, nad zemí zařve, otočí to a zase frr vzhůru.
+
+</section>
+
+<section>
 
 **Slunce taví asfalt,**
 
@@ -96,6 +122,10 @@ Dopíjím víno, zapíjím ho vodou.
 Po silnici jde směrem k novým bytovkám přihrblý čtyřicátník s modelem na zádech. Letoun omotaný molitanem nese v jakési krosně. Šťastlivec. Existenční kvapík, míň peněz za víc práce, žena, děti, nejistota, jeden průser za druhým, ekonomický krach za humny – jeho tváři přesto dominuje nadzemský klid. Vše je střihem zapomenuto, jakmile motor naskočí a rudý vztekloun vzlétne s řevem k nebesům.
 
 Průhlednému kokpitu kraluje nosatá, optimistickou růžovou natřená brambora v letecké kukle: kníratá maketa pilota.
+
+</section>
+
+<section>
 
 **Nitro větrolamu mi vydechne**
 
@@ -111,6 +141,10 @@ Nacházím se v travnaté krajině nikoho. Jinonice, Řeporyje, tak něco. Proc
 
 Ve vzduchu visí semenný pach jasanů a spálenina. Je tma. Kromě uzounké stezky, po níž kráčím, je vše zarostlé trsy šedých travin, bezem, proutím, bodláčím.
 
+</section>
+
+<section>
+
 **Vlevo dole se vynoří**
 
 jakési stavení. Křovím zarostlá rozvalená chalupa, rozpadlá chata. Nízká dřevěnka s podezdívkou. Opatrně se blížím. Vypadá opuštěně. Střecha krytá vlnitým laminátem je místy propadlá.
@@ -124,6 +158,10 @@ Zkouším usnout. Za začátku mě vytrhne kdejaký zvuk, ale celodenní štrap�
 Už během mělčích fází spánku registruju, že se cosi změnilo. Obklopuje mě hutný aspik chrčení, chroptění, chrchlání, kvílení, střevního i plicního skřípění. Spánek rovná se bezpečí, říkám si. Dokud se spí, spí se. Prudké znepokojení hlásí též nosní sliznice. Cítím suchý hajzl u babičky, králíka plného červů, do něhož jsem padl hubou v rámci dětské bitvy na smeťáku. Rozkládající se prase, které jsem, třináctiletý, našel na sólové výpravě stokami Hrdlořez.
 
 Pootevřu oko. Půl druha metru ode mě se choulí na prknech typický heimatlose v ušmoulané větrovce. Tichounce chroptí, cuká nohou, na hlavě dvě čepice převázané šátkem.
+
+</section>
+
+<section>
 
 **Nějakou dobu**
 
@@ -177,6 +215,10 @@ Třetí je jurodivec v kapuci, toho nezajímám já, ale my všichni. Obchází
 
 I ke mně vyšle pár formulí. Ne nepodoben pštrosu mi chce něco sdělit, nakonec zamne lososově rudými dlaněmi a jde dál.
 
+</section>
+
+<section>
+
 **Musím pryč,**
 
 to je jisté. Ale ne moc rychle. Zrychlení není na místě.
@@ -194,6 +236,10 @@ Kam oko padne, všude naseto šedofialových hoven. Nejlacinější víno, krev 
 Pomalounku přejdu louku. V houští maliníků, zkroucených jehličnanů, bujných travin, vysokých zdřevnatělých bylin a všelijakého neřádu jsou vyplouhány olámané tunely. Zalezu do jednoho, vykonám tváří v tvář riziku žloutenky typu C svoje, utřu se listím, vyjdu ven.
 
 Hned u křoviska stojí napůl rozmlácená plaňková zahradní lavice. Posadím se na ni.
+
+</section>
+
+<section>
 
 **Vedle mě si na podobné**
 
@@ -265,6 +311,10 @@ Sáhne do plátěné tašky, vytáhne láhev mně neznámé whisky. „Nemusíte
 
 „Těžko,“ přiznávám a užívám si, jak mě whiska nalačno hřeje v útrobách.
 
+</section>
+
+<section>
+
 **Pojednou se stařec zvedne,**
 
 hole si zapře v bok, pískavě se nadechne, tleskne dlaněmi.
@@ -302,6 +352,10 @@ Stařík mě nechává jít před sebou. Opatrně lezeme do svahu, já bos, on o
 Pod nohou mi chřupne suchá větývka.
 
 Po chvíli za mnou chřupne tatáž.
+
+</section>
+
+<section>
 
 **Zastavíme se, dědek zapíchne hole,**
 
@@ -357,6 +411,10 @@ Načež postupně lízneme několik řad rychle jedoucích bouráků. Náš plec
 
 „Každýmu autu dám jméno – tohle je Kleopatra.“
 
+</section>
+
+<section>
+
 **V Táboře nosíme**
 
 do Kleopatry těžké krabice. Když je vše naskládáno, zadekováno, ucpáno a zajištěno, usedáme do kumbálku za galerií.
@@ -379,6 +437,10 @@ Nalijeme si, napijeme se, mlčíme.
 
 Sotva o ně zavadím pohledem, mávají odmítavě rukama a volají: „No a co! My tu muziku máme rády, je to naše mládí a vostatní nás nezajímá!“
 
+</section>
+
+<section>
+
 **„Mňujo,“ vzdychne stařík,**
 
 „mládí… Mně eště nebylo devatenáct, když jsem se musel denně ohánět krumpáčem. To byly nucený práce pro Němce – zátarasy. Bydleli jsme v takovejch narychlo stlučenejch králíkárnách a měli jsme kliku, že nás hlídal wehrmacht, ne SS. Zima čtyřicet pět, konec byl ve vzduchu, nic nefungovalo. Abysme se najedli, žrali jsme havrany, žáby, ježky. Dostat havrana bylo těžký, malorážky byly pod trestem smrti zakázaný.
@@ -399,6 +461,10 @@ No – utekli jsme. Z východu táhly rozbitý jednotky smíchaný s civilem 
 
 „Nemáte hlad?“ přitančí keramička, „nechcete chlebíčky?“
 
+</section>
+
+<section>
+
 **Koušeme klasické středostavovské chlebíčky.**
 
 „Kde jsem to přestal,“ dumá děd a dolévá mně i sobě. „Jo – do Srbska. No, přijeli jsme k Srbsku u Berouna, tam nám řekli: Jsme na místě, holoubci! Tady končíme! Tak jsem si pučil pramici a na tý pramici jsem dovesloval po Berounce do Prahy. Pušku jsem měl přes záda, aby se nenamočila. V Praze potom se ještě děly věci… Všechno se to vodehrálo hrozně rychle. Nám šlo v první řadě o to se někde najíst. Nacpali jsme se párkama a bramborem, až nám bylo špatně.
@@ -413,6 +479,10 @@ Pak to ovšem začalo. Čistily se baráky, nikdo nevěděl, kdo je kdo. Dodneš
 
 „Jenže vidět to je něco jinýho než o tom jenom slyšet. Válka udělá ze spousty lidí zvěř, to je jasný, ale tady žádná válka nebyla! Tohle dělali tátové od rodin, střední třída, ouřadové, drobný obchodníci, tramvajáři, jistě i nějaký kriminálníci, ale hlavně spousta mla­dejch – proč? Protože jim to doba dovolila.“
 
+</section>
+
+<section>
+
 **Ráno u kafe**
 
 se podobá všem ránům u kafe v cizím bytě. Závěsy jsou zataženy, vzduchem poletují moli, prach, slunce venku jede naplno, hlásí se pálení žáhy.
@@ -420,6 +490,10 @@ se podobá všem ránům u kafe v cizím bytě. Závěsy jsou zataženy, vzduc
 Keramička před nás klade bohatě pocukrovanou suchou bábovku a jde si ještě lehnout. Sežvýkáme ji, zapijeme minerálkou z lednice a jdeme.
 
 Při zavírání dveří mrknu na jmenovku: _Ak. mal. Eva Merxbauerová_.
+
+</section>
+
+<section>
 
 **Motáme se jednosměrkami**
 
@@ -446,6 +520,10 @@ Stařec se narovná, vezme z přihrádky elektronickou cigaretu, obřadně ji o
 „Jak dlouho jste to dělal?“
 
 „Od chvíle, co byla do Vodochod převedená licenční výroba MiGů-15bis. Zalítávaly se stroje pro naše letectvo, šlo to do Egypta, Indonésie, do Sýrie, k Maďarům, Bulharům, do NDR a doplňovaly se stavy na Středním východě, tam ovšem dodávala licenční kusy hlavně Čína. Já měl patnáctku rád, byl to takovej malej rafan. Bylo v ní něco urputnýho.“
+
+</section>
+
+<section>
 
 **Sedím v Kleopatře,**
 
@@ -488,6 +566,10 @@ Nasedáme, jedeme do centra.
 „Vyhoďte mě na MHD, to stačí.“
 
 „Když už jsme tady, hodím vás tam.“
+
+</section>
+
+<section>
 
 **Poprvé se mě dotýká**
 
@@ -551,11 +633,19 @@ Mezitím, co nalévám alkohol, prohlížím poštu. Zaujme mě úřední příp
 
 „Kdybyste potřeboval odstěhovat, zavolejte. Stejně trávím v Kleo­patře celý dny – je to můj domov.“
 
+</section>
+
+<section>
+
 **PhDr. Lemiš Jurgis**
 
 se osobně obtěžuje ke mně domů. Úzký hranatý obličej, úzké hranaté brýle. Nepostrádá kouzlo tarantinovské figurky. Vedle něj stojí dle módy od Blažka oděný dvojník. Oba se bez rozpaků posadí do mých křesel, nohu přes nohu. Dr. Jurgis mi servíruje, co je upečeno. Odmítne se bavit o dekretu, relikt komunismu ho nezajímá, máme jiné veřejnoprávní normy. Jeho klient zde chce mít kancelář. Tady jsou kopie dokladů, to je vše. Odstupné dostanu. Budeme se o něm bavit, jakmile byt vyklidím.
 
 Dostávám vizitku – zlaté písmo na pistáciovém podkladu. Dovedu si představit, jak dlouho z nich to odstupné budu páčit. Lemiš vypadá, že by raději zabil, než by pustil chlup.
+
+</section>
+
+<section>
 
 **Další náhoda mě potká**
 
@@ -566,6 +656,10 @@ Volám jí. Pí Ponděláková funí do sluchátka jako živočich z jiné epoc
 Beru sako a jedu. Na Jezerce zvoním u zdí obehnané patrové vily z let, kdy si úřednická honorace budovala umírněně romantická sídla.
 
 Ponděláková je lenivá pětašedesátnice s lalokovitě povolenými rysy a slídivým zrakem. Typ, co zamlada žrala chlapy zasyrova. Neptá se, kdo jsem, co jsem, odkud přicházím. Stačí jí, když se na ni usměju. Belhá se za mnou do schodů. Pod střechou je obytná půda, k níž vedou bizarní schůdky. Okamžitě se mi zalíbí. Plácneme si a jdeme podepsat papíry.
+
+</section>
+
+<section>
 
 **Seženu krabice,**
 
@@ -613,6 +707,10 @@ Za půl hodiny brzdí u obrubníku černý bombarďák. Postávám na chodníku
 
 „Někdy si to vyberu, nebojte,“ stočí po mně kalné rybí bulvy.
 
+</section>
+
+<section>
+
 **To by mě zajímalo jak,**
 
 bručím, když tahám bedny do druhého patra. Stařec vykazuje vyšší zájem o moji osobu, než je přiměřené, to je bez debat. Jenže co já vím… Možná trpí samotou, pořád mu to myslí, chtěl by mluvit, nemá s kým. Je samostatný, živý, plný zájmu. Sbírá osobní informace. Proč ne.
@@ -657,6 +755,10 @@ S tím mě vysadí před domem.
 
 Hledím za mizícím korábem s vetchým pilotem v kokpitu a začínám být v obraze: Merxbauerovou mi chceš podsunout, pasoune stará… Krákoravou bajadéru, milovnici Landy, umělkyni. To určitě!
 
+</section>
+
+<section>
+
 **Nastěhoval jsem se,**
 
 pokračuju v žití. Dům se místy rozpadá, ale podkrovní dvoupokoj se sprchou, k němuž mi byl přidělen klíč, je v pořádku. Z šikmé střechy ční dva trojhranné vikýře – moje okna.
@@ -673,11 +775,19 @@ Má formu šnekovitého schodiště či spíš točitého žebříku z tmavorud
 
 Když lezu vzhůru, buď se to houpe, nebo protáčí kolem své osy, nejčastěji obojí najednou.
 
+</section>
+
+<section>
+
 **Zapnu počítač,**
 
 připojím se k síti. Otevřu poštu, naťukám pár odpovědí, poznámek, proseb, omluv, díků, zkontroluju kšefty, odešlu smlouvy, mrknu, co ISIS, DARPA, Boston Dynamics, co sopka v Yellowstonu, pozdravím několik známých, nechám běžet aktualizace – a jsem doma.
 
 Vyhledám Galeodes graceus – solifuga egejská, skutečně hnusný tvor. Zlověstnější než škorpion a ohavnější než nejohavnější pavouk.
+
+</section>
+
+<section>
 
 **Nebožtík inženýr**
 
@@ -686,6 +796,10 @@ odtud ještě docela nevyšuměl, tvrdil mi Karel Palma, bývalý kolega, jedin�
 Poprvé jsem na nebožtíkovo lože ulehl s jistým očekáváním. A, pravda, s lahví po ruce. Nic se nedělo. Usnul jsem. Od té doby lehám na inženýrově posteli, žiju obklopen jeho předměty a nic zvláštního nepozoruju. Pravda, sny tu doznívají extrémně dlouho. Když si nedám pozor, budím se zavalen vazkou černotou. I v bdělém stavu občas drahnou dobu přetrvává pocit akutního útoku na podstatu mé psychiky, byť těžko říct, odkud přišel. Lze to však zažehnat bdělou činností.
 
 Tlumit sny, shánět práci, stahovat filmy, žižlat koupenou pizzu, udržovat pár přátelských vztahů, tu a tam s někým prochodit noc – jiné starosti nemám. Někdy udeří samota, ale snadno se zažene s někým, kdo má právě čas. Tak snadno, že se do ní vzápětí zatoužím ponořit co nejrychleji zpátky.
+
+</section>
+
+<section>
 
 **Na střeše rachotí letní déšť,**
 
@@ -702,6 +816,10 @@ Vyjdu s vodítkem, vínem a psími pokroutkami. Zkouším hafana odvést, ale 
 Sprcha se mu nelíbí, ale jinak to nejde. Utřu ho, dám mu deku na zem, přistrčím misku s granulemi, kouskem kuřete, s vodou. Vodu okamžitě vylemtá, zbytkem pohrdne a svalí se.
 
 Jdeme spát, ráno se uvidí.
+
+</section>
+
+<section>
 
 **A ano:**
 
@@ -720,6 +838,10 @@ Z druhé strany někdo říká: _Kjá ují, mužíš, ešiši tóó, tak vam m�
 „Tak ho k ní vezmete? Tady je adresa, prej vás taky zná – bude doma,“ hlásí mladice.
 
 Podepíšu papír a jdeme. Čipař radostně vrtí ocasem. Merx­bauerová, která ke všemu bydlí pár minut ode mě? Může to pořád ještě být náhoda?
+
+</section>
+
+<section>
 
 **Umělkyně se ukáže být**
 
@@ -745,6 +867,10 @@ Akademička hned kuje železo – zrovna dneska má po páté domluveného _mil
 
 Vyrábím kladnou odpověď, prohlížím si ji. Přes našedlou pěšinku v matně černých vlasech, přes drobné vrásky kolem úst a na čele je to žádoucí ženská. Čas už na ni sáhl. Má co dělat, aby to stihla – čeká ji osm až dvanáct let plných vůní, pachů, _milounů_, a pak utrum.
 
+</section>
+
+<section>
+
 **Drbu hafana pod krkem,**
 
 vedu ho na luft a lámu si hlavu, jaká je spojitost mezi výtvarnicí, Smrťákem, tímhle chlupatým kumpánem a mnou.
@@ -760,6 +886,10 @@ Pes kýve.
 Nesmysl, říkám si. Je to celé omyl. Byť je z druhé strany fakt, že akademička bydlí na dostřel od Jezerky. A že se zná se Smrťákem, kterého mám pořád za zadkem.
 
 Jdeme s ušákem na vrch Bohdalec. Břízy vydechují omamně čerst­vou vůni. Pes šťastně bagruje v hromadě plesnivých hadrů. Starší potetovaná zubatá lidojedka s vlkodavem na špagátě se na nás široce usmívá. Táhnu ho za obojek pryč, volným krokem zpátky k Jezerce.
+
+</section>
+
+<section>
 
 **Koukám z okna,**
 
@@ -782,6 +912,10 @@ Zjistil jsem, že Karlík nemá strýce v lásce, toť vše.
 Jediný, kdo sleduje jasný cíl, je Smrťák. Ten něco chce. Něco, v čem hraje roli Merxbauerka.
 
 Rozhodně po něm úvodem dalšího setkání budu chtít, ať se buď vymáčkne, nebo přestávám být k dispozici. Tak mu to řeknu. Přiznej barvu, dědku! O co tady jde?
+
+</section>
+
+<section>
 
 **Nepřekvapí mě,**
 
@@ -820,6 +954,10 @@ když napozítří odpoledne zvoní telefon. Překvapilo by mě, kdyby nezvonil.
 „Tak jo, jedeme.“
 
 „Doufal jsem, že to řeknete.“
+
+</section>
+
+<section>
 
 **Zubatá Kleopatra**
 
@@ -861,6 +999,10 @@ Poté se Smrťák odmlčí. Radím si v duchu posloupnost jeho dotazů a násl
 
 Ožíračka u akademičky – už tam ze mě leccos vytáhl. Potom řeči u kafe při stěhování. Nakonec ten pes, na němž Merxbauerka zjevně až tak nevisí. Proč to všechno? K čemu tak úporné konání u chlapa, co už má život skoro za sebou? Co v Lysolajích? Ve vlhké díře plné komárů, spodní vody, ponurých starých stavení? Proč tam? K čemu nějaký kolega?
 
+</section>
+
+<section>
+
 **Sjíždíme z hlavní,**
 
 hučíme Modřanskou, zahneme doleva a ženeme se asfaltkou mezi stromy. Neztenčenou rychlostí projíždíme mezi domky. Pak křižovatka – na té stavíme.
@@ -887,6 +1029,10 @@ Rašna, vzplane mi v mozku. _Rašna!_
 
 Hotovo, říkám si. Dva prokazatelní psychopati si mě vytipovali, podchytili a teď mě mají.
 
+</section>
+
+<section>
+
 **Zastavujeme**
 
 před neudržovanou vilou s kulatým štítem, hrubou omítkou, s několika úzkými tmavými okny.
@@ -910,6 +1056,10 @@ V polici nad umyvadlem kelímky, jelení loje, karafy, šminky. K čemu rouge,
 „Posaďte se,“ říká Smrťák a přistrčí mi židli v momentu, kdy se mě poprvé dotkne opravdový strach.
 
 Přisunu židli zády k bedně, uvnitř které jsem zahlédl kovovou trubku. Nenápadně spustím pravici do bedny, nahmátnu ji. Je ocelová, zamaštěná, těžká. Rašnu vezmu přednostně, Smrťákovi stačí podkopnout berle.
+
+</section>
+
+<section>
 
 **Ti dva mě mezitím**
 
@@ -937,6 +1087,10 @@ V modrém světle výbojek leží nějaká žena. Vlasy zcuchané do čela, nej
 
 Jdu blíž. Na tyč v bedně jsem zapomněl.
 
+</section>
+
+<section>
+
 **Zblízka je to jasné:**
 
 je to loutka. Neživá, nijaká, mírně zjednodušená tvář. Přesto má v sobě cosi bolestně naléhavého. Přitahuje mě trýznivým kouzlem. Je přikrytá prostěradlem, bosá.
@@ -958,6 +1112,10 @@ Sklánějí se nad tělem. Jejich hlasy zní jako tlumené bublání, neartikulo
 Připojují figuru několika kabely k počítači. Dědek přistrká otlučenou kovovou hrazdu, zavěšují na ni pytlíky s infuzí nebo s čím. Zapichují do figuríny jehly, nahlížejí jí pod víčka.
 
 „Bude to trvat,“ hlásí Smrťák a belhá se ke mně. „Doprovoďte mě ven, kolego, sotva lezu. Zapomněl jsem si v autě foťák.“
+
+</section>
+
+<section>
 
 **Pociťuji jakousi bdělou,**
 
@@ -997,6 +1155,10 @@ Loutka otočí hlavu, pohlédne na mě. Její perleťově matné, jakoby šlemem
 
 Cítím dokonalou prázdnotu.
 
+</section>
+
+<section>
+
 **„Takže,“ naváže Smrťák,**
 
 „tohle jsou barely s provozní kapalinou, ty vám přivezu domů. Kapalinu je třeba jednou za čas vyměnit. Přes filtr – teď mluvím k vám! Musí být absolutně čirá! Povrch je syntetická kůže, astronomicky drahá. Potřebuje výživu – musí se denně mazat. Konkrétně tímhle krémem, umí to sama. Jestli nastane _jakýkoliv_ problém, okamžitě mi volejte, vyřeším to. Co ještě?“ obrací se k Rašnovi.
@@ -1008,3 +1170,5 @@ Cítím dokonalou prázdnotu.
 „Taky si musí opatřit nějaký slušnější hadry,“ dodá, „nebude chodit v tomhle. To nechte na ní,“ otočí se ke mně. „Sama si vybere, co bude chtít.“
 
 „Kreditku ovšem nemá,“ podotkne Rašna.
+
+</section>
