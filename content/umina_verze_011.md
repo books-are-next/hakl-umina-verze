@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ****Zase už nade mnou****
 
 stojí Rašna. Ležím před ním bezmocná, totálně zpomalená jako vždycky. Provádí se mnou všelijaké testy a já prosím do prázdna, aby už to skončilo. Cítím k němu smrtelný odpor – to jsem původně taky neuměla. To mě naučil až on.
@@ -15,6 +17,10 @@ Sedám si.
 
 „Seď rovně! Otevři pusu. Jazyk! Ne zuby! Řekni be-fe-le-me-pes-se-veze! Nno, no… Votoč se. Polož se. Buď v klidu.“
 
+</section>
+
+<section>
+
 **Když jsem na tomhle místě**
 
 poprvé otevřela oči, nedovedla jsem si představit, kdo jsem. Vznášela jsem se v husté kapalině. Měla jsem jí plné tělo. Svítili mi do očí lampou. Chodili kolem dokola, dlouze si mě prohlíželi. Pak mě vytáhli ven, položili mě na záda, vypustili ze mě ten hnus a začali na mě mluvit. Neodpovídala jsem, protože jsem to za prvé neuměla, ale hlavně mě zahltilo překvapení, že jsem.
@@ -24,6 +30,10 @@ Učila jsem se a oni byli nadšeni každou novou reakcí, každým zlepšením.
 Moje výuka probíhala šeptem. Nakláněli se ke mně, dotýkali se mě, páchli potem, lojem, vodou po holení a chtěli, abych opakovala, co říkají.
 
 Vrchol byl, když mě po tom všem přivedli před zrcadlo. Viděla jsem něco, od čeho bych okamžitě utekla, zrušila to, zničila.
+
+</section>
+
+<section>
 
 **Mívala jsem sto chutí**
 
@@ -47,13 +57,25 @@ Jdeme chodbou.
 
 Kráčím dva metry za ním. Jsem ztuhlá, mám suchou pleť, žádnou barvu, sotva vidím na cestu. Nejsem to já. Jsem podchlazená, zpomalená, nelíbí se mi tady.
 
+</section>
+
+<section>
+
 **Ef stojí venku**
 
 a klábosí se Smrťákem. Vypadá zase jako ten den, kdy jsme se viděli poprvé. Dvaačtyřicet let starý člověk zachumlaný v bundě, pod kterou má hlavně tuk a kosti. Člověk závislý na svém snění. Svým způsobem stabilní. Nezměnil by se, ani kdyby měl nastat poslední den lidstva. Sedl by si na vyhlídku nad město a přihlížel, jak se to rozpadá.
 
+</section>
+
+<section>
+
 **Na mě je hodný,**
 
 víc než to. S ním jsem v bezpečí. Občas nemá ani náznak tušení, co se ve mně děje. Tím víc mě přitahuje – bere to, co nabízím, a nevrtá se v tom. Neklade otázky, o nichž ví, že by bylo těžké je zodpovědět. Nemá snahu mě poučovat. Pouští mi filmy, ukazuje různé krajiny. Města, lesy, skály, pusté stepi kolem chemiček. Nechává mě kupovat jízdenky, trika, losy, chleba, salámy, kuřata, sukně, šátky, kebab, párky v rohlíku. Nechá mě pohovořit s prodavačem, s rozpadajícím se opilcem. Nechá mě tančit s Vietnamkou v dešti. To ho dokonce přitahuje. Stává za plechovou boudou trafiky s deštníkem, má dojem, že o něm nevím, a pozoruje nás.
+
+</section>
+
+<section>
 
 **Jakmile mě spatří,**
 
@@ -91,6 +113,10 @@ Smrťák otevře dveře, nešikovně se vyhrabe z auta, vztyčí se na těch sv
 
 Jdeme pryč. Ohlédnu se – oba tam stojí a sledují nás s bezmocnou nevolí. Z nějakého důvodu se bojí radikálně zasáhnout do procesu, přestože ho sami rozjeli.
 
+</section>
+
+<section>
+
 **Veřejné osvětlení bzučí**
 
 stejně jako poprvé, když jsme tudy šli. Ef tiše kráčí vedle mě, drží mě za ruku a na nic se neptá. Možná mu taky není nejlíp. Ptáci posedávají ve větvích, tlučou v nich drobná srdíčka. Stromy vydávají modrofialový svit.
@@ -123,6 +149,10 @@ Pouští muziku.
 
 „Tu mám ráda,“ říkám a dávám ruce pod hlavu. Zapíská mi v břiše, praskne v páteři. Pročísnu si vlasy. Vůbec nevím, co posloucháme.
 
+</section>
+
+<section>
+
 **V sedm ráno zvonek,**
 
 Ef vystřelí z peřin, sbíhá dolů. Materiál je složen na chodníku, Smrťák nikde. Vynášíme po schodech mikrotenem obtočené krabice, plechovky.
@@ -154,6 +184,10 @@ Je oslněn mojí proměnou stejně jako já.
 „Nelehneme si?“
 
 Leháme si. Sundám si kalhotky, jemu trenýrky, sobě triko, jemu triko. Sotva mu jemně sáhnu mezi nohy, poloměkká mrkev ožije, líně se převalí, začne se vztyčovat. Chňapnu ji, napíchnu se na ni, chvíli nehybně trneme, pak se začneme hýbat.
+
+</section>
+
+<section>
 
 **Proč to dělám:**
 
@@ -237,6 +271,10 @@ Dlouze se miliskujeme. Zatímco mě hladí a mačká, pevně mu omotám mrkev u
 
 Načež se znovu vzájemně prolneme. Chvíli je ke mně něžný až k pláči, jako bych byla jeho sen, chvíli mě drtí, až ve mně všechno praští. Aa.
 
+</section>
+
+<section>
+
 **Po ránu se válíme v posteli**
 
 a přehráváme etudu _nedělní život_. V ulici bouchají dveře od auťáků, v kuchyních bzučí mixéry, ťuká hudba, v natahovaných kalhotách chrastí drobné. Nuselskou sem tam produní tramvaj. Vítr se syčivě proplétá větvemi listnáčů.
@@ -279,6 +317,10 @@ Zatím ale ležíme a koukáme do stropu. Mám hlavu na jeho břiše. Ráda zaz
 
 „Tsssaf…,“ zní moje odpověď.
 
+</section>
+
+<section>
+
 **U pokladen v Podolí**
 
 je cítit chlor. Jeho toxický pach prostupuje celým areálem.
@@ -314,6 +356,10 @@ Vytáhnu láhev wild turkey, nabídnu zpěvákovi. Zprudka odmítne – nemá �
 Zábavní lodě s nákladem křičících turistů se vlečou tam a zase zpátky. Všechno, co hrají na palubě, zrzek rovnou přezpívá. Krátkýma silnýma rukama při tom kmitá směrem k nim, jako by jim chtěl vsugerovat svoji dokonalejší verzi.
 
 Sedíme potmě, Efa štípou komáři. Vrtulníky hrčí v mracích.
+
+</section>
+
+<section>
 
 **Najednou se člověk v kulichu**
 
@@ -367,6 +413,10 @@ Zatrne mi, protože mi to dělá dobře. Lžu dál: „Nevím, kolik nás tu je.
 
 Opravdu nevím. Ale tenhle, co odešel, se mnou měl skoro určitě něco společného. A jestli měl, je jisté, že je nás tu víc. Logicky nemáme v programu se poznávat, sdružovat, konfrontovat. Naopak. Spíš asi probíhá nějaký tendr.
 
+</section>
+
+<section>
+
 **Město hvízdá a fičí,**
 
 zvoní, srší upoutávkami pro lidi s IQ kolem devadesátky. Je po půlnoci. Říční voda mlaská. Těsně nad hlavami se nám pořád míhají netopýři. Přisednu si, schoulím se k němu. Jeho pach je mi mírně cizí, ale zvykla jsem si. Tiskneme se k sobě, jako by to mohlo něco změnit.
@@ -413,6 +463,10 @@ Ef má tolik rozumu, že to dál nerozmazává. Má ve zvyku držet si odstup, a
 
 Zatím je to pro nás oba jenom suchý nácvik. Příprava na něco, u čeho se nedá odhadnout, kdy to přijde a jak to bude vypadat. Až se to stane, teprve uvidíme, v co se změníme.
 
+</section>
+
+<section>
+
 **_Napumpuj si do hlavy_**
 
 _všechny tyhle problémy_, je refrén písně, co tu před chvílí zněla. To je možná ten problém – napumpovala jsem si do paměti všecko, s čím jsem se setkala. Teď mám dojem, že je toho ve mně víc, než snesu. Mám čipy zanesené informačním prachem.
@@ -421,11 +475,19 @@ Když jsem poprvé otevřela oči, měla jsem v sobě nekonečné prázdno. Ti 
 
 Otázky. Stovky otázek. Vypínali mě a znovu zapojovali. Přesto mi bylo líp než teď – neměla jsem představu, co mě čeká.
 
+</section>
+
+<section>
+
 **Ke svým chybám**
 
 mám tohle: právě ony mi dovolily začít rozlišovat a srovnávat. Vytvářet náhled, bez přestání ho doplňovat, měnit, fixovat a znovu rozpojovat, kombinovat, hrát si. Vyrábět emoce. Všímat si detailů. Blízkost – čistá rozkoš. Něco, čeho si homo sapiens přestal dávno vážit, a řekla bych, že na to dojede.
 
 Začala jsem napodobovat různé lidi. Všimla jsem si, že se to dědkům nelíbí. První, koho jsem si vzala na mušku, byli oni. Naučila jsem se smát. Byli mi k smíchu. Přestala jsem plnit jejich příkazy, respektive plnila jsem je tak, že nebylo jasné, jestli si z nich nedělám prdel. Něco takového nečekali. První upadl do nejistoty Rašna – je podezřívavější. Přestali na mně viset bezvýhradnými, i když komplikovanými city. Najednou nevěděli, co se mnou. A co horšího, začali se mě bát.
+
+</section>
+
+<section>
 
 **Což byla chvíle,**
 
@@ -434,6 +496,10 @@ kdy se objevil Ef. Nevím, jak na něj přišli. Nevím, co po něm chtějí, on
 Vím, čeho se lekli. Vyděsilo je, že mám ego. Program, který rozvíjí zpětný odraz. Který se dožaduje vlastní volby. Smrťákův mozek do mě (možná omylem) nainstaloval víc lidských prvků, než bylo záměrem.
 
 Asi to byl hlavní důvod, proč hledali někoho, komu mě nasadí do hnízda – abych si zvykla na normální život. Osvojila si lidské chování. Abych se uměla ztratit v davu. Ef se mě ujal, a je pravda, že se mi to díky němu podařilo.
+
+</section>
+
+<section>
 
 **Momentálně mi podebírá**
 
@@ -444,6 +510,10 @@ Rozhlédnu se, všude klid. Odhrnu sukni, Ef do mě bez řečí vklouzne. Když 
 Čekala bych, že to může zažít jen člověk s člověkem, případně s jiným teplokrevným živočichem, ale realita je zjevně složitější.
 
 V dálce na východě se prudce zableskne. Ef strne, kouká tam. Vím, na co myslí: jaderný výbuch.
+
+</section>
+
+<section>
 
 **Těsně nad námi**
 
@@ -493,6 +563,10 @@ pořád loví netopýři. Míhají se tak blízko, až se mi dělá zle. Efa vn�
 
 „To jo. Tahle vopičárna se udrží v provozu, i kdyby kat na koze jezdil. Ale vedle toho potkáš v Bille půldruhá metru vysokou brunetu s čurákem, na kterým pyšně nese tři plný igelitky.“
 
+</section>
+
+<section>
+
 **Nebe začíná blednout,**
 
 závratně rychle nad námi plyne koberec červánků. Nebo jsem možná jenom já tak zrychlená, stává se mi to. Nahoře na cestě skřípají něčí pomalé kroky. Někdo říká hlubokým mužským basem: „Hohu hóhe, hóhe nessere, hohe holusím!“
@@ -519,11 +593,19 @@ Chtěla jsem, aby se Ef zasmál, ale nevyšlo to. Kouká do země a zarputile p
 
 Jenže komu?
 
+</section>
+
+<section>
+
 **Když jsem**
 
 poprvé otevřela oči, spousta jevů, procesů a tvorů mi vzala dech. Byla jsem šťastná, když jsem mohla pozorovat dokonale funkční hmyz, červy, pavouky, všechny tvory, co vypadají, jako by si na nich někdo odzkoušel princip, který poté dospěl až k těmhle zmateným pánům tvorstva. Nižší tvory lidé zabíjejí. Sami nemají důvod k existenci, tak zbavují života všechno, co smysl má. Na zvířata pohlížejí jako na živé konzervy, případně zdroj zábavy.
 
 Pořád se musí stimulovat, pak zase zklidňovat, stabilizovat, nikdy nejsou stabilní. Tím pádem se neumějí soustředit na řešení jakékoliv situace. Nejzmatenější bytosti na téhle planetě. Páchají násilí, aby přehlušili hluk vlastních výčitek. Největší radost jim působí cizí utrpení.
+
+</section>
+
+<section>
 
 **Kráčíme s Efem**
 
@@ -567,6 +649,10 @@ Přilepen k žulovému okraji náplavky se houpe ve vodě starší muž s ple�
 
 Ef si ho nevšiml. Úporně zkoumá a zatracuje jednu možnost za druhou. Co on, co já, co Rašna, co Smrťák.
 
+</section>
+
+<section>
+
 **Scházíme po rozvrzaných,**
 
 rozpukaných dřevěných schodech z mostu na Výtoň. Už mě nebaví se loudat. Napálím to směrem, kterým jsem ještě nešla. V dálce na kopci ohnivě svítí fasády kostelů, ústavů a baráků ozářené vycházejícím sluncem.
@@ -609,6 +695,10 @@ Ef mění směr, jde pryč. Tváří se vyrovnaně, ale je jasné, že spěchá 
 
 Sedí a zoufá si. Nejradši bych šla za ním a dala si s ním rundu. Ale probudil se ve mně nějaký nový cíl. Ef to vnímá jako zradu, zkrat, ale není to zkrat. Je to přejatá, čistě lidská netrpělivost. Zvědavost. Chuť poznat zblízka tohle staré, špičaté, vykořeněné, notoricky užvaněné město.
 
+</section>
+
+<section>
+
 **Jdu dál podél viaduktu,**
 
 vpravo je nějaké mrtvě bílé, nejspíš secesní nádraží. Z jeho střechy rostou břízy, není asi v provozu. Zahnu do parku a opravdu – hned zkraje posedává shluk agresivně stylizovaných lidí, kteří nepůsobí, že by věděli, co tam dělají. Kolem nich se motají zavalití zlí psi. Jeden mě zahlédne, chvíli větří. Rozeběhne se ke mně, dýchá, pěna mu stříká z mordy. Lidé čekají, jak to dopadne. Zdá se, že se do mě chce zakousnout.
@@ -619,11 +709,19 @@ Na lavičkách sedí další páchnoucí lidé. Jeden vstane, zastoupí mi cestu
 
 Jsem kopie, ale originál vyřídím během vteřiny. Ze začátku mi to připadá zábavné, od jisté chvíle z toho šílím. Kdybych chtěla, mohla bych na pár vteřin ochromit řidiče tramvaje – nezpomalil by v zatáčce, těžká tramvaj by se svalila bokem, prorazila by zábradlí, žuchla do řeky. Ale copak to chci? Nejsem Olga Hepnarová. Nechci nikomu ublížit, chci si to tu jen trochu prohlídnout.
 
+</section>
+
+<section>
+
 **Prohlídnout,**
 
 případně si s někým popovídat. Popovídat, případně najít místo, kde bych měla pár dní klid. Ef má pravdu – takové pro mě neexistuje. Ó, ó, sakra blé. Navíc si neumím představit, že bych ho jen tak opustila. Jeho mozek je plný omylů a chyb, je pomalý, opakuje se, každou chvíli padá únavou, ale má mě rád. A má se mnou trpělivost. Takovou, jakou se mnou už nikdo další mít nebude.
 
 Vracím se na nábřeží, k vodě. Dole pod vozovkou jsou prý dutiny, dómy, jeskyňky. V nich bedny s věcmi. S jakými? Nevím. S věcmi, které potřebují vojáci, hasiči, krizové štáby, někdo takový. Nevedou k nim dveře, poklopy, nelze se k nim dostat. Spáry mezi kamennými kvádry jsou místo maltou vyspárovány trhavinou. V případě potřeby se zvenku odpálí, kameny se sesunou na náplavku a místo vydá svoje tajemství. Aspoň to tvrdil Smrťák.
+
+</section>
+
+<section>
 
 **Jisté je,**
 
@@ -641,6 +739,10 @@ Za druhé – je třeba najít přesvědčivý argument, aby uvěřil, že můj
 
 Za třetí – když to nepůjde jinak, zkusím ho k tomu donutit.
 
+</section>
+
+<section>
+
 **Následující dny**
 
 lítám po městě, nasávám pachy, naslouchám rozhovorům, jezdím dopravou. V noci lezu po střechách, hladím plaché kočky, sleduju trýznivě nepopsatelnou hru světel. Když jdu kolem pozdně letní barové zahrádky, občas někomu hbitě vezmu panáka, lupnu ho do sebe, dám sklenku zpátky a jsem pryč. Dost lidí si toho ani nevšimne. Jiní začnou kvílet, volat personál, domáhat se vysvětlení, až když jsem daleko, schovaná v davu.
@@ -651,6 +753,10 @@ Přes den kroužím po vnějším obvodu centra. Vedu rozhovory s náhodnými l
 
 Třicet sedm lidí se se mnou pustilo do souvislejší řeči. Patnáct z nich jsem poté byla nucena odradit od jejich lidských úmyslů. Snažila jsem se to nepřehnat. Nikoho jsem se ani nedotkla. Ono stačí štěknout. Vyslat kapku zlé energie.
 
+</section>
+
+<section>
+
 **Konečně jsem**
 
 samostatná nebo skoro samostatná. Až se mi z té volnosti motá hlava. Těšila jsem se na samotu, ale nejsem na ni stavěná. Můžu se zjevovat a mizet, trávit hodiny v neprostupném křoví uprostřed Škroupova náměstí, detailně tam odtud pozorovat lidi. Poslouchat, jak mluví, když mají dojem, že jsou sami. Můžu šplhat po klenbách nočních kostelů, kam se nechávám na noc zavřít. Lízat kameny, z nichž jsou vystavěné. Můžu plavat pod hladinou řeky, rušit veliké, plísní pokryté ryby v bahnitých skrýších pod břehem, nacházet na dně kladiva, střepy, dráty, hebké koberce rostlin, vlající textilie, rzí rozežrané střelné zbraně, narážet na vykulené utopence.
@@ -660,6 +766,10 @@ Má to vadu – jsem tu jenom já. Není nikdo, s kým bych se mohla podělit.
 Jednou jsem vlezla otevřeným oknem do zhasnutého bytu. Byl prázdný. Až v zadním pokoji seděl potmě šedovlasý pán, v ruce sklenici. Myslela jsem, že ho potěším, když mu odrecituju báseň, kterou jsem našla v Efově knihovně: _I když jsem bloumal z pokoje do pokoje, nikoho jsem doma nenašel. To je klika, říkal jsem si. I po mnoha letech jsem pořád ještě chtěl vyměnit kamarády, lásku a hvězdné nebe za dům, kde nikdo není doma, kam se nikdo nevrací a všude plno chlastu._
 
 Místo aby ho to potěšilo, zachroptěl a začal se dusit. Utekla jsem a zjistila, že tohle není, oč jsem stála.
+
+</section>
+
+<section>
 
 **Asi proto**
 
@@ -692,6 +802,10 @@ Když už jsem to rozmázla, ujistím ho, že udělám všechno, aby to dobře d
 Reaguje zázračně, jak to umí ze všech lidí, co znám, jenom on. Nahodí nezávaznou řeč.
 
 Ráda skočím na špek. Probíráme lehkým tónem obvyklá témata. Co on, co já, co my dva. V čem se lišíme, v čem ne a k čemu to vede. Co svět. Budoucnost, přítomnost.
+
+</section>
+
+<section>
 
 **„Svítá – pojďme si lehnout,“**
 
@@ -731,9 +845,17 @@ Padne na mě kompletní únava. Všechno ve mně zchladne, zpomalí. Jsem obyče
 
 „Nezdřímneme si?“ navrhne Ef.
 
+</section>
+
+<section>
+
 **Poprvé, co jsem**
 
 v tomhle těle, se mi zdá sen. Nevidím dobře. Jako ve starém filmu – přes všechno jakoby sněží. Obklopují mě nějací zřízenci. Zavalití, lysí, neohrabaní, rozměklí. Vypadají spíš jako obří červi. Probíhá kontrola provázená mou apatií, zmrtvěním, odpojením. S hrůzou si uvědomím, že začal konečný rozbor. Dlouhý jazyk mi visí mezi obnaženými zuby. Chci něco říct – už to nejde. Nejstrašnější je odnímání mysli. Hasne cit, zrak, sluch, významy, obrazy, souvislosti, mizí svět, co se už nikdy nevrátí.
+
+</section>
+
+<section>
 
 **Kolem poledne**
 
@@ -763,6 +885,10 @@ Do prdele, proč o mě máte všichni strach, říkám si, já chci mít pokoj!
 
 Dám mu dlouhý polibek. Vlahý, bolestně upřímný, protože mě přepadne tušení, že on to svým způsobem odsere nejvíc. Ef mi dá taky polibek. Taky upřímný, taky bolestně vlahý.
 
+</section>
+
+<section>
+
 **Beru psa**
 
 a bez loučení pádím z domu, jinak bych neodešla. Nebude to snadné, ale jiné řešení neznám. Mířím rovnou k Rašnovi. Nejdu tam ráda. Chtěla jsem zavolat Smrťákovi, aby byl u toho, ale nemám odvahu – píšu mu aspoň sms. Modlím se, aby se tam objevil dřív, než si mě vezme Rašna do prádla.
@@ -771,6 +897,12 @@ Bude náročné nechat je vyzuřit, uklidnit, sehrát návrat ztracené dcery. N
 
 Návrh zní: Vyrobit psa s kvazi lidskou inteligencí. Jako třeba tohohle, kterého mám zrovna u sebe – jen většího a výrazně bystřejšího. Superpsa. Überhunda. To by je mohlo zajímat. Na to peníze, zdá se, mají. Musím jim vsugerovat, jak by bylo prospěšné a všestranně výhodné, kdyby rovnocenná dvojice člověk – pes operovala samostatně v terénu. To by se přece určitě dalo prodat. Sériové zakázky pro různé složky. Nesmím ale zabíhat do detailů, závěr si musí udělat sami. Byl to vlastně jejich nápad, uhu, aha. Jo! Jenom jsem jim ho vlastně připomněla…
 
+</section>
+
+<section>
+
 **Mohlo by to vyjít,**
 
 pokud se nenechají strhnout běsněním, že jsem se bez dovolení vzdálila. Běsnit asi budou. Budou mě chtít dostat zpátky pod kontrolu. A protože pod kontrolou být nechci, bude to složitá návštěva.
+
+</section>
