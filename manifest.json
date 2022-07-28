@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hakl-umina-verze-594a68e",
-  "revision": "594a68e",
+  "identifier": "hakl-umina-verze-2727faa",
+  "revision": "2727faa",
   "readingOrder": [
     "promo.html",
     "umina_verze_005.html",
@@ -22,8 +22,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 28 2022 07:25:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658993157085
+    "date": "Thu Jul 28 2022 07:35:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658993755559
   },
   "documents": [
     {

@@ -470,7 +470,7 @@ Zatím je to pro nás oba jenom suchý nácvik. Příprava na něco, u čeho se
 
 <section>
 
-_Napumpuj si do hlavy_
+**_Napumpuj si do hlavy_**
 
 _všechny tyhle problémy_, je refrén písně, co tu před chvílí zněla. To je možná ten problém – napumpovala jsem si do paměti všecko, s čím jsem se setkala. Teď mám dojem, že je toho ve mně víc, než snesu. Mám čipy zanesené informačním prachem.
 
