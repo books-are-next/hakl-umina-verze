@@ -8,7 +8,7 @@ contentType: prose
 
 <section>
 
-**Pes běží podél**
+****Pes** běží podél**
 
 mé levé nohy. Mikrobusák samozřejmě dávno odfrčel – byl jsem uvnitř moc dlouho. Jdeme tedy s chlupáčem pěšky k řece. Zase ty do dálky se stáčející kandelábry, studené světlo, elektrické dráty, dlouhé stíny, vzdálený ševel vrtulníků. Noční vzduch voní.
 
@@ -24,7 +24,7 @@ Připadám si jako v komiksu Red Meat: Právě jsem dostal psa. Jenom si nejsem
 
 <section>
 
-Na Jezerku jsme
+**Na Jezerku jsme**
 
 se doplahočili nad ránem. Cestou začal padat první sníh. Kudy jsme šli a jak dlouho, těžko říct. Odemkl jsem dveře, za nimiž můžu ještě pár týdnů bydlet. Zkusil jsem usnout. Pes se poslušně svalil na koberec.
 
@@ -46,7 +46,7 @@ _Jak vidíš, ani ti, co vás jednou nahradí (zatím jenom ve vaší fantazii),
 
 <section>
 
-Čtu zprávu podruhé,
+**Čtu zprávu podruhé,**
 
 popatnácté: _Můj milý!_ _Napsala bych nejmilejší, ale jiný milý… Poslední dobou… Každopádně tě pro pár dalších dnů prosím…_
 
@@ -54,7 +54,7 @@ popatnácté: _Můj milý!_ _Napsala bych nejmilejší, ale jiný milý… Posle
 
 <section>
 
-V následujících týdnech
+**V následujících týdnech**
 
 se mi rozsypal reálný časoprostor. Přestal fungovat čas. Ležel jsem v posteli a spal dvanáctku až patnáctku denně. V mezičase jsem pil čaj, škrábal si do krve zanícenou spodní půlku těla, chroustal tatranky a mechanicky vykonával pracovní povinnosti.
 
@@ -70,7 +70,7 @@ Takhle se dívala Uma, když se potřebovala na něco zeptat. Mluvím na něj mo
 
 <section>
 
-Bez zvláštního pohnutí
+**Bez zvláštního pohnutí**
 
 vzpomínám na známé, na kamarády, kolegy, přechodné známé, na pár šikovných všiváků, co jim dnes patří půl Prahy, na pár neši­kovných solitérů, kteří jsou touhle dobou nejspíš rádi, když nejsou pozadu s nájmem a zdravotním pojištěním. Na ženy a dívky. Přicházejí ke mně podivuhodně snadno, hovořím s nimi. Vidím, jak vypadaly před pěti, patnácti, dvaceti lety. Vidím je, i jak vypadají teď. Co chtěly, co nechtěly, co se jim splnilo, co ne.
 
@@ -86,7 +86,7 @@ První se vrátila přítomnost.
 
 <section>
 
-Psa jsem věnoval
+**Psa jsem věnoval**
 
 Pondělákové a získal tak nečekaně velký kus jejího vděku. Vzala ho do náručí jako ztracené dítě a bylo vymalováno. Okamžitě k sobě přilnuli.
 
@@ -96,7 +96,7 @@ Na stěhování je rázem zapomenuto. Netlačí na mě, abych zvedal kotvy, naop
 
 <section>
 
-Fyzické následky
+**Fyzické následky**
 
 pobytu v kapalině nádrže nemizí. Dermatolog MUDr. Veverák tvrdí, že něco takového ještě neviděl, posílá vzorky na histologii. Při další návštěvě mi předepisuje nějaké mazání. Mám se natírat od pupku dolů, fačovat zasažená místa a chodit na kontrolu – uvidíme. Důležité je zachovat funkci pohlavního orgánu – vyloučit možnost byť jen částečné amputace.
 
@@ -108,7 +108,7 @@ Na plovárnu tím pádem hned tak nepůjdu. Vůbec se dost belhám, když musím
 
 <section>
 
-Vždycky, když otvírám
+**Vždycky, když otvírám**
 
 dveře mansardy, čekám, že bude Uma sedět v křesle, nohu přes nohu a mžourat na mě těmi svými plovoucími duhovkami. Nedokážu už říct, jakou měly barvu. Přikláním se k dojmu, že ji měnily. Od jasné perlové šedi až po žraloci čerň.
 
@@ -116,7 +116,7 @@ dveře mansardy, čekám, že bude Uma sedět v křesle, nohu přes nohu a mž
 
 <section>
 
-Abych se z toho vymotal,
+**Abych se z toho vymotal,**
 
 zkusil jsem obnovit vztah s jednou dávnou přítelkyní. Nemohl jsem provést sobě ani jí nic horšího. Po šestnácti dnech holka odpadla, poničená mými nepochopitelnými nároky na souběžné vnímání, společnou vibraci, intuici, konverzaci, na lehce pitomý, specificky ujetý humor, který šlo pěstovat jedině s Umou. Moje kulhání a stav moudí pokusu o sblížení taky moc neprospěly.
 
@@ -128,7 +128,7 @@ Až do konce dnů mi bude v hlavě blikat neón: Měl ses o ni postarat a ned
 
 <section>
 
-Šlo by to asi
+**Šlo by to asi**
 
 utnout rychleji pomocí nějakých farmak. Nemám však sílu zjišťovat, kde se to sežene a jak to funguje. Pocházím z úřednických poměrů, kde všichni (až na dva dědy, co svého času vzali do ruky zbraň a šli deset minut po dvanácté zachraňovat republiku) loajálně srali magi až do přirozeného konce.
 
@@ -136,7 +136,7 @@ utnout rychleji pomocí nějakých farmak. Nemám však sílu zjišťovat, kde s
 
 <section>
 
-Jak se teď vídáme častěji,
+**Jak se teď vídáme častěji,**
 
 odváží se Ponděláková pozeptat po Umě. Soustrastně pomrkává pomněnkovýma očima, nedokáže skrýt až trýznivou zvědavost. Kříží ruce na břiše, hledí po katolicku stranou k zemi, jen ať se vymáčknu.
 
@@ -158,7 +158,7 @@ Běžte, já už žádný spaní nemám, odvětí Ponděláková.
 
 <section>
 
-Ráno se mi kdosi
+**Ráno se mi kdosi**
 
 opírá o zvonek, dokud nevstanu, neopláchnu si ksicht a nevlezu do županu. Řinčí jak na lesy.
 
@@ -174,7 +174,7 @@ Vyrážíme tedy do ulic. Pes se belhá podél mé levé nohy. Mám podezření,
 
 <section>
 
-Během uplynulých let
+**Během uplynulých let**
 
 jsem častokrát hlídal nejrůznější hafany – příležitostně i dlouhodobě. Sám jsem měl fenu ohaře. Čili mám zažito, že se člověk se psem automaticky stává účastníkem pouličního fašizmu. Rukojmím psí internacionály. Obětí šišlání, mušlání, drbání, dotazů po věku, po pohlaví, co rád žere, všechno pořád dokola.
 
@@ -188,7 +188,7 @@ Pes běhá, skáče, honí veverky, plazí jazyk, vydírá kolemjdoucí nevinný
 
 <section>
 
-Smrťáka jsem od návštěvy
+**Smrťáka jsem od návštěvy**
 
 garáže neviděl, Merxbauerku taky ne. Ponděláková mi jí ostatně zdatně vynahrazuje – psa hlídám takřka obden. Nevadí mi to, zvykl jsem si. Přes noc pracuju, dopoledne zdřímnu, odpoledne vyrážíme na výlet. Stavíme se na nudle u Vietnamce, koupíme si placku Stroh rumu a zamíříme k obzorům. Kroužíme kolem parku, někdy to protáhneme až na Bohdalec, do Záběhlic nebo kolem Hostivařské přehrady. Čtvernožec skenuje, co ho zajímá – mloky, potkany, sportovce, podivíny, vnější projevy lidských vztahů, litinové poklopy kanálů.
 
@@ -198,7 +198,7 @@ K smrti rád má vetešnictví – tam se dokáže procházet mezi prasklými 
 
 <section>
 
-Jednoho dne se takto vracíme
+**Jednoho dne se takto vracíme**
 
 ze šouračky kolem Šeberáku. Na rohu hučí pivnice. Dostanu chuť na řízek, burger s tatarkou, na přepálené hranolky, na něco podobného. Vejdeme dovnitř – zakouřeno, plno.
 
