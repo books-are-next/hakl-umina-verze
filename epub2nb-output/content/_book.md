@@ -17,15 +17,10 @@ readingOrder:
   - promo.html
   - umina_verze_005.html
   - umina_verze_006.html
-  - umina_verze_007.html
   - umina_verze_008.html
-  - umina_verze_009.html
   - umina_verze_010.html
-  - umina_verze_011.html
   - umina_verze_012.html
-  - umina_verze_013.html
   - umina_verze_014.html
-  - umina_verze_015.html
   - umina_verze_016.html
   - about.html
 tocBase:
@@ -37,28 +32,18 @@ tocBase:
       - link: umina_verze_006.html
         title: "1.\_Subverze"
         hiddenTitle: false
-        children: []
-        listType: plain
       - link: umina_verze_008.html
         title: "2.\_Konverze"
         hiddenTitle: false
-        children: []
-        listType: plain
       - link: umina_verze_010.html
         title: "3.\_Umina verze"
         hiddenTitle: false
-        children: []
-        listType: plain
       - link: umina_verze_012.html
         title: 4. Diverze
         hiddenTitle: false
-        children: []
-        listType: plain
       - link: umina_verze_014.html
         title: 5. Reverze
         hiddenTitle: false
-        children: []
-        listType: plain
       - link: umina_verze_016.html
         title: Ediční poznámka
         hiddenTitle: false

@@ -96,138 +96,133 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "umina_verze_006.md",
             "xhtml": "umina_verze_006.xhtml",
             "id": 5,
-            "role": "break",
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": true,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "1. Subverze",
+            "children": []
+          },
+          {
+            "filename": "umina_verze_007.md",
+            "xhtml": "umina_verze_007.xhtml",
+            "id": 6,
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
-            "children": [
-              {
-                "filename": "umina_verze_007.md",
-                "xhtml": "umina_verze_007.xhtml",
-                "id": 6,
-                "role": "chapter",
-                "listType": "plain",
-                "inToc": true,
-                "hungry": false,
-                "devoured": false,
-                "hiddenTitle": false,
-                "children": []
-              }
-            ],
-            "title": "1. Subverze"
+            "children": []
           },
           {
             "filename": "umina_verze_008.md",
             "xhtml": "umina_verze_008.xhtml",
             "id": 7,
-            "role": "break",
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": true,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "2. Konverze",
+            "children": []
+          },
+          {
+            "filename": "umina_verze_009.md",
+            "xhtml": "umina_verze_009.xhtml",
+            "id": 8,
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
-            "children": [
-              {
-                "filename": "umina_verze_009.md",
-                "xhtml": "umina_verze_009.xhtml",
-                "id": 8,
-                "role": "chapter",
-                "listType": "plain",
-                "inToc": true,
-                "hungry": false,
-                "devoured": false,
-                "hiddenTitle": false,
-                "children": []
-              }
-            ],
-            "title": "2. Konverze"
+            "children": []
           },
           {
             "filename": "umina_verze_010.md",
             "xhtml": "umina_verze_010.xhtml",
             "id": 9,
-            "role": "break",
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": true,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "3. Umina verze",
+            "children": []
+          },
+          {
+            "filename": "umina_verze_011.md",
+            "xhtml": "umina_verze_011.xhtml",
+            "id": 10,
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
-            "children": [
-              {
-                "filename": "umina_verze_011.md",
-                "xhtml": "umina_verze_011.xhtml",
-                "id": 10,
-                "role": "chapter",
-                "listType": "plain",
-                "inToc": true,
-                "hungry": false,
-                "devoured": false,
-                "hiddenTitle": false,
-                "children": []
-              }
-            ],
-            "title": "3. Umina verze"
+            "children": []
           },
           {
             "filename": "umina_verze_012.md",
             "xhtml": "umina_verze_012.xhtml",
             "id": 11,
-            "role": "break",
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": true,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "4. Diverze",
+            "children": []
+          },
+          {
+            "filename": "umina_verze_013.md",
+            "xhtml": "umina_verze_013.xhtml",
+            "id": 12,
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
-            "children": [
-              {
-                "filename": "umina_verze_013.md",
-                "xhtml": "umina_verze_013.xhtml",
-                "id": 12,
-                "role": "chapter",
-                "listType": "plain",
-                "inToc": true,
-                "hungry": false,
-                "devoured": false,
-                "hiddenTitle": false,
-                "children": []
-              }
-            ],
-            "title": "4. Diverze"
+            "children": []
           },
           {
             "filename": "umina_verze_014.md",
             "xhtml": "umina_verze_014.xhtml",
             "id": 13,
-            "role": "break",
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": true,
+            "devoured": false,
+            "hiddenTitle": false,
+            "title": "5. Reverze",
+            "children": []
+          },
+          {
+            "filename": "umina_verze_015.md",
+            "xhtml": "umina_verze_015.xhtml",
+            "id": 14,
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
-            "children": [
-              {
-                "filename": "umina_verze_015.md",
-                "xhtml": "umina_verze_015.xhtml",
-                "id": 14,
-                "role": "chapter",
-                "listType": "plain",
-                "inToc": true,
-                "hungry": false,
-                "devoured": false,
-                "hiddenTitle": false,
-                "children": []
-              }
-            ],
-            "title": "5. Reverze"
+            "children": []
           },
           {
             "filename": "umina_verze_016.md",
@@ -236,11 +231,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ediční poznámka"
+            "title": "Ediční poznámka",
+            "children": []
           },
           {
             "filename": "umina_verze_017.md",
@@ -254,7 +249,8 @@
             "hiddenTitle": false,
             "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ]
   },
@@ -439,6 +435,6 @@
       "user": "books-are-next",
       "repo": "hakl-umina-verze"
     },
-    "generatedAt": 1658992011992
+    "generatedAt": 1658992426308
   }
 }
