@@ -1,0 +1,319 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Umina verze",
+  "author": "Emil Hakl",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hakl-umina-verze-2e296be",
+  "revision": "2e296be",
+  "readingOrder": [
+    "promo.html",
+    "umina_verze_005.html",
+    "umina_verze_006.html",
+    "umina_verze_007.html",
+    "umina_verze_008.html",
+    "umina_verze_009.html",
+    "umina_verze_010.html",
+    "umina_verze_011.html",
+    "umina_verze_012.html",
+    "umina_verze_013.html",
+    "umina_verze_014.html",
+    "umina_verze_015.html",
+    "umina_verze_016.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jul 28 2022 07:08:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658992095903
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "umina_verze_005.html",
+      "toc": []
+    },
+    {
+      "title": "Umina verze",
+      "file": "umina_verze_005.html",
+      "words": 16,
+      "chars": 115,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "umina_verze_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1. Subverze",
+      "file": "umina_verze_006.html",
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "umina_verze_005.html",
+      "next": "umina_verze_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1. Subverze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Umina verze",
+      "file": "umina_verze_007.html",
+      "words": 9222,
+      "chars": 56285,
+      "ideas": 503,
+      "role": "chapter",
+      "order": 3,
+      "prev": "umina_verze_006.html",
+      "next": "umina_verze_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2. Konverze",
+      "file": "umina_verze_008.html",
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 4,
+      "prev": "umina_verze_007.html",
+      "next": "umina_verze_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2. Konverze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Umina verze",
+      "file": "umina_verze_009.html",
+      "words": 11365,
+      "chars": 69392,
+      "ideas": 752,
+      "role": "chapter",
+      "order": 5,
+      "prev": "umina_verze_008.html",
+      "next": "umina_verze_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3. Umina verze",
+      "file": "umina_verze_010.html",
+      "words": 3,
+      "chars": 14,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 6,
+      "prev": "umina_verze_009.html",
+      "next": "umina_verze_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3. Umina verze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Umina verze",
+      "file": "umina_verze_011.html",
+      "words": 6730,
+      "chars": 39089,
+      "ideas": 386,
+      "role": "chapter",
+      "order": 7,
+      "prev": "umina_verze_010.html",
+      "next": "umina_verze_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4. Diverze",
+      "file": "umina_verze_012.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 8,
+      "prev": "umina_verze_011.html",
+      "next": "umina_verze_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4. Diverze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Umina verze",
+      "file": "umina_verze_013.html",
+      "words": 6945,
+      "chars": 41366,
+      "ideas": 405,
+      "role": "chapter",
+      "order": 9,
+      "prev": "umina_verze_012.html",
+      "next": "umina_verze_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5. Reverze",
+      "file": "umina_verze_014.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 10,
+      "prev": "umina_verze_013.html",
+      "next": "umina_verze_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5. Reverze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Umina verze",
+      "file": "umina_verze_015.html",
+      "words": 2181,
+      "chars": 13099,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 11,
+      "prev": "umina_verze_014.html",
+      "next": "umina_verze_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "umina_verze_016.html",
+      "words": 33,
+      "chars": 214,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 12,
+      "prev": "umina_verze_015.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 130,
+      "chars": 829,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "umina_verze_016.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 36639,
+      "chars": 220476,
+      "ideas": 2155
+    },
+    "chapters": {
+      "words": 36503,
+      "chars": 219616,
+      "ideas": 2136
+    }
+  }
+}
