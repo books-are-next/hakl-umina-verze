@@ -13,6 +13,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: Beletrie
+  isbn: 978-80-274-2695-9
 readingOrder:
   - promo.html
   - umina_verze_005.html
