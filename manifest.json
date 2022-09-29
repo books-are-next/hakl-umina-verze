@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hakl-umina-verze-5e19169",
-  "revision": "5e19169",
+  "identifier": "hakl-umina-verze-c1b145c",
+  "revision": "c1b145c",
   "readingOrder": [
     "promo.html",
     "umina_verze_005.html",
@@ -22,8 +22,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 01 2022 11:38:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659353902481
+    "date": "Thu Sep 29 2022 21:23:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486625795
   },
   "documents": [
     {
@@ -182,7 +182,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 134,
-      "chars": 865,
+      "chars": 866,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -202,7 +202,7 @@
   "totals": {
     "all": {
       "words": 36643,
-      "chars": 220512,
+      "chars": 220513,
       "ideas": 2156
     },
     "chapters": {
